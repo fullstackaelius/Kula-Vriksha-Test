@@ -1,0 +1,44 @@
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    function hrmsUserDoc() {
+      return /databases/(default)/documents/hrms_users/$(request.auth.uid);
+    }
+    function hasHrmsUser() {
+      return firestore.exists(hrmsUserDoc());
+    }
+    function hrmsRole() {
+      return firestore.get(hrmsUserDoc()).data.role;
+    }
+    function isHRMSStaff() {
+      return request.auth != null && hasHrmsUser() && (hrmsRole() == "Admin" || hrmsRole() == "HR");
+    }
+    function isHRMSEmployee() {
+      return request.auth != null && hasHrmsUser() && hrmsRole() == "Employee";
+    }
+    function myEid() {
+      return firestore.get(hrmsUserDoc()).data.eid;
+    }
+    function isMyOwnFolder(eid) {
+      return isHRMSEmployee() && myEid() == eid;
+    }
+
+    // HRMS files under hrms/employees/{eid}/...
+    match /hrms/employees/{eid}/{allPaths=**} {
+      allow read: if isHRMSStaff() || isMyOwnFolder(eid);
+      allow write: if isHRMSStaff()
+        && request.resource.size < 10 * 1024 * 1024
+        && (
+          request.resource.contentType.matches('image/.*')
+          || request.resource.contentType == 'application/pdf'
+        );
+      allow delete: if isHRMSStaff();
+    }
+
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}

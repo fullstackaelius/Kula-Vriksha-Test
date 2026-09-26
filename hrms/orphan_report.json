@@ -1,0 +1,50 @@
+{
+  "fixable": [
+    {
+      "uid": "5nDbKhQcRTOAJfD9bDemwi92DkB3",
+      "email": "saraswat.sanjana@seasoulcosmetics.com",
+      "eid": "VD0074",
+      "docId": "VD0074",
+      "name": "Sanjana Saraswat",
+      "status": "Active"
+    },
+    {
+      "uid": "EJcgHuItA0as7mmSmmGF9PxzlCH2",
+      "email": "internalaudit@aeliusparallel.com",
+      "eid": "APHLR0003",
+      "docId": "CAND-2026-001",
+      "name": "Aastha Goel",
+      "status": "Active"
+    },
+    {
+      "uid": "aEjpSCRWTUeoDFf5prvBhYlGPpI3",
+      "email": "gupta.yashi@aeliusparallel.com",
+      "eid": "APHLR0002",
+      "docId": "CAND-2026-003",
+      "name": "Yashi Gupta",
+      "status": "Active"
+    },
+    {
+      "uid": "gIWxucDhi8SAxQNpSaPwfaIxE3t2",
+      "email": "factory.maintenance@seasoulcosmetics.com",
+      "eid": "APHL0018",
+      "docId": "APHL0018",
+      "name": "Ravi Shankar",
+      "status": "Exited"
+    },
+    {
+      "uid": "nxkknw2sOEdnaXQUQaEIDT6853u2",
+      "email": "jain.payal@seasoulcosmetics.com",
+      "eid": "APHLR0004",
+      "docId": "CAND-2026-006",
+      "name": "Payal Jain",
+      "status": "Active"
+    }
+  ],
+  "nomatch": [
+    {
+      "uid": "7h5CA7bgPFW4DLe66QkW1GbG5Ot2",
+      "email": "aim@aeliusparallel.com"
+    }
+  ]
+}

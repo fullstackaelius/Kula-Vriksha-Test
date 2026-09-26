@@ -1,0 +1,115 @@
+[debug] [2026-05-21T11:08:39.579Z] ----------------------------------------------------------------------
+[debug] [2026-05-21T11:08:39.580Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy --only hosting:group-hrms
+[debug] [2026-05-21T11:08:39.580Z] CLI Version:   15.18.0
+[debug] [2026-05-21T11:08:39.580Z] Platform:      darwin
+[debug] [2026-05-21T11:08:39.580Z] Node Version:  v24.15.0
+[debug] [2026-05-21T11:08:39.580Z] Time:          Thu May 21 2026 16:38:39 GMT+0530 (India Standard Time)
+[debug] [2026-05-21T11:08:39.580Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-05-21T11:08:39.972Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-05-21T11:08:39.972Z] > authorizing via signed-in user (sankalpmanisha@gmail.com)
+[debug] [2026-05-21T11:08:39.972Z] [iam] checking project aeliusparallel-bms for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2026-05-21T11:08:39.973Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:08:39.973Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:08:39.973Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/aeliusparallel-bms:testIamPermissions [none]
+[debug] [2026-05-21T11:08:39.973Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/aeliusparallel-bms:testIamPermissions  x-goog-user-project=aeliusparallel-bms
+[debug] [2026-05-21T11:08:39.973Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/aeliusparallel-bms:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2026-05-21T11:08:57.001Z] *** [apiv2] error from fetch(https://cloudresourcemanager.googleapis.com/v1/projects/aeliusparallel-bms:testIamPermissions, {"headers":{},"method":"POST","body":"{\"permissions\":[\"firebase.projects.get\",\"firebasehosting.sites.update\"]}"}): FetchError: request to https://cloudresourcemanager.googleapis.com/v1/projects/aeliusparallel-bms:testIamPermissions failed, reason: read ETIMEDOUT
+[debug] [2026-05-21T11:08:57.002Z] [iam] error while checking permissions, command may fail: Failed to make request to https://cloudresourcemanager.googleapis.com/v1/projects/aeliusparallel-bms:testIamPermissions
+[debug] [2026-05-21T11:08:57.003Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:08:57.003Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:08:57.003Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/aeliusparallel-bms [none]
+[debug] [2026-05-21T11:08:57.548Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/aeliusparallel-bms 200
+[debug] [2026-05-21T11:08:57.548Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/aeliusparallel-bms {"projectId":"aeliusparallel-bms","projectNumber":"625617874729","displayName":"aeliusparallel-bms","name":"projects/aeliusparallel-bms","resources":{"hostingSite":"aeliusparallel-bms"},"state":"ACTIVE","etag":"1_5ab98988-80bf-4b08-b82f-135ff6865165"}
+[info] 
+[info] === Deploying to 'aeliusparallel-bms'...
+[info] 
+[info] i  deploying hosting 
+[debug] [2026-05-21T11:08:57.552Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:08:57.552Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:08:57.552Z] >>> [apiv2][query] GET https://firebasehosting.googleapis.com/v1beta1/projects/aeliusparallel-bms/sites/group-hrms [none]
+[debug] [2026-05-21T11:08:59.087Z] <<< [apiv2][status] GET https://firebasehosting.googleapis.com/v1beta1/projects/aeliusparallel-bms/sites/group-hrms 200
+[debug] [2026-05-21T11:08:59.087Z] <<< [apiv2][body] GET https://firebasehosting.googleapis.com/v1beta1/projects/aeliusparallel-bms/sites/group-hrms {"name":"projects/aeliusparallel-bms/sites/group-hrms","defaultUrl":"https://group-hrms.web.app","appId":"1:625617874729:web:aad5f814ba86fd71611138","type":"USER_SITE"}
+[debug] [2026-05-21T11:08:59.089Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:08:59.089Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:08:59.089Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/group-hrms/versions [none]
+[debug] [2026-05-21T11:08:59.089Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/group-hrms/versions {"status":"CREATED","labels":{"deployment-tool":"cli-firebase"}}
+[debug] [2026-05-21T11:09:00.312Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/group-hrms/versions 200
+[debug] [2026-05-21T11:09:00.313Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/group-hrms/versions {"name":"projects/625617874729/sites/group-hrms/versions/bc60c1af41e6ca7a","status":"CREATED","config":{},"labels":{"deployment-tool":"cli-firebase"}}
+[info] i  hosting[group-hrms]: beginning deploy... 
+[info] i  hosting[group-hrms]: found 8 files in . 
+[debug] [2026-05-21T11:09:00.333Z] [hosting] uploading with 200 concurrency
+[debug] [2026-05-21T11:09:00.352Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:00.352Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:00.353Z] [hosting] hash cache [] stored for 8 files
+[debug] [2026-05-21T11:09:00.353Z] [hosting][hash queue][FINAL] {"max":15,"min":0,"avg":2.25,"active":0,"complete":8,"success":8,"errored":0,"retried":0,"total":8,"elapsed":16}
+[debug] [2026-05-21T11:09:00.353Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/625617874729/sites/group-hrms/versions/bc60c1af41e6ca7a:populateFiles [none]
+[debug] [2026-05-21T11:09:00.353Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/625617874729/sites/group-hrms/versions/bc60c1af41e6ca7a:populateFiles {"files":{"/update_performance_v2.js":"a318a291938942752a6dcaf87280e7302e547950608b74c0597412f6481eaf2a","/seed_salaries.js":"acd0c84cae5c4a9ce56658b674e053a12eea9e4803602e2305242270fc74cc3a","/seed_data.js":"cfec4a42ebc1c775ab00a0cf1e3e5a494d889b089898b35b5a84afee57080e29","/seed_compensation.json":"fe6fa1dbb07de59d2cbefbc74fd84eb9423c294e448ecc88775ac96df0e226e2","/logos.js":"d113cbd8a8d692bcce26806afb9bc42b3793a4b658c547856515e6dff0ea9a47","/files.zip":"ce71ea127a7d319d86295270455512c0e5e811b646ec6bd287d8617ad9879c40","/firebase-debug 2.log":"ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9","/index.html":"d8e1e7fbfb5d4ebd85bfca7c7a21ad3b20470b2789851a8d5dfd71a16394d79d"}}
+[debug] [2026-05-21T11:09:01.362Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/625617874729/sites/group-hrms/versions/bc60c1af41e6ca7a:populateFiles 200
+[debug] [2026-05-21T11:09:01.363Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/625617874729/sites/group-hrms/versions/bc60c1af41e6ca7a:populateFiles {"uploadRequiredHashes":["ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9","d8e1e7fbfb5d4ebd85bfca7c7a21ad3b20470b2789851a8d5dfd71a16394d79d"],"uploadUrl":"https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files"}
+[debug] [2026-05-21T11:09:01.364Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:01.364Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:01.364Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:01.364Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:01.364Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [none]
+[debug] [2026-05-21T11:09:01.364Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:01.366Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/d8e1e7fbfb5d4ebd85bfca7c7a21ad3b20470b2789851a8d5dfd71a16394d79d [none]
+[debug] [2026-05-21T11:09:01.366Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/d8e1e7fbfb5d4ebd85bfca7c7a21ad3b20470b2789851a8d5dfd71a16394d79d [stream]
+[debug] [2026-05-21T11:09:01.368Z] [hosting][populate queue][FINAL] {"max":1012,"min":1012,"avg":1012,"active":0,"complete":1,"success":1,"errored":0,"retried":0,"total":1,"elapsed":1016}
+[debug] [2026-05-21T11:09:01.368Z] [hosting] uploads queued: 2
+[debug] [2026-05-21T11:09:02.380Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 400
+[debug] [2026-05-21T11:09:02.381Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:02.381Z] [hosting][upload] firebase-debug 2.log (ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9) HTTP ERROR 400: headers={"x-guploader-uploadid":["AAVLpEiu6x2hHsBXeoqJ5dqpBP-uKhk4tK-A0sXM4j2y1Bl-GOUik3zhgVMpSD2V6tCyuzk_C2TgGXA"],"content-length":["73"],"date":["Thu, 21 May 2026 11:09:02 GMT"],"server":["UploadServer"],"content-type":["text/html; charset=UTF-8"],"alt-svc":["h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"]} Couldn't process request (status=400): content hash doesn't match content
+[debug] [2026-05-21T11:09:02.783Z] [uploadQueue] Retrying task ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9
+[debug] [2026-05-21T11:09:02.785Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:02.785Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:02.785Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [none]
+[debug] [2026-05-21T11:09:02.785Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:03.333Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/d8e1e7fbfb5d4ebd85bfca7c7a21ad3b20470b2789851a8d5dfd71a16394d79d 200
+[debug] [2026-05-21T11:09:03.334Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/d8e1e7fbfb5d4ebd85bfca7c7a21ad3b20470b2789851a8d5dfd71a16394d79d [stream]
+[debug] [2026-05-21T11:09:03.661Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 400
+[debug] [2026-05-21T11:09:03.661Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:03.662Z] [hosting][upload] firebase-debug 2.log (ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9) HTTP ERROR 400: headers={"x-guploader-uploadid":["AAVLpEiP0kzvwSqfWKvHWImOr11G-2pDkkbsRKTzWH2buIzWk_L5S2NYICrGwZpzdvj0SfPmlGbFrwE"],"content-length":["73"],"date":["Thu, 21 May 2026 11:09:03 GMT"],"server":["UploadServer"],"content-type":["text/html; charset=UTF-8"],"alt-svc":["h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"]} Couldn't process request (status=400): content hash doesn't match content
+[debug] [2026-05-21T11:09:04.463Z] [uploadQueue] Retrying task ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9
+[debug] [2026-05-21T11:09:04.464Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:04.464Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:04.464Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [none]
+[debug] [2026-05-21T11:09:04.464Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:05.376Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 400
+[debug] [2026-05-21T11:09:05.376Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:05.377Z] [hosting][upload] firebase-debug 2.log (ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9) HTTP ERROR 400: headers={"x-guploader-uploadid":["AAVLpEjwou2di1-lSrjAnjrsefUjIyzrGTH2914gM_3qv1Yef1-E37so4--vBtE1wAQdEfOg"],"content-length":["73"],"date":["Thu, 21 May 2026 11:09:05 GMT"],"server":["UploadServer"],"content-type":["text/html; charset=UTF-8"],"alt-svc":["h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"]} Couldn't process request (status=400): content hash doesn't match content
+[debug] [2026-05-21T11:09:06.977Z] [uploadQueue] Retrying task ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9
+[debug] [2026-05-21T11:09:06.978Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:06.978Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:06.979Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [none]
+[debug] [2026-05-21T11:09:06.979Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:07.803Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 400
+[debug] [2026-05-21T11:09:07.803Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:07.803Z] [hosting][upload] firebase-debug 2.log (ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9) HTTP ERROR 400: headers={"x-guploader-uploadid":["AAVLpEjnGSIB8FjNpniJdSTskZazUSw27qEgB6CRdrFmj2ufdhljcHq3f0k-YtOm_w3ZWGFI5lLXcj0"],"content-length":["73"],"date":["Thu, 21 May 2026 11:09:07 GMT"],"server":["UploadServer"],"content-type":["text/html; charset=UTF-8"],"alt-svc":["h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"]} Couldn't process request (status=400): content hash doesn't match content
+[debug] [2026-05-21T11:09:11.004Z] [uploadQueue] Retrying task ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9
+[debug] [2026-05-21T11:09:11.006Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:11.006Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:11.006Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [none]
+[debug] [2026-05-21T11:09:11.006Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:12.191Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 400
+[debug] [2026-05-21T11:09:12.191Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:12.192Z] [hosting][upload] firebase-debug 2.log (ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9) HTTP ERROR 400: headers={"x-guploader-uploadid":["AAVLpEiL-wuPT2haHeOX1V3iFucpArue8seC92KetBnxX1CNMma-GHELwBpZKOlOTDJOaX_SKitPiD8"],"content-length":["73"],"date":["Thu, 21 May 2026 11:09:12 GMT"],"server":["UploadServer"],"content-type":["text/html; charset=UTF-8"],"alt-svc":["h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"]} Couldn't process request (status=400): content hash doesn't match content
+[debug] [2026-05-21T11:09:18.593Z] [uploadQueue] Retrying task ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9
+[debug] [2026-05-21T11:09:18.594Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:18.594Z] Checked if tokens are valid: true, expires at: 1779365295356
+[debug] [2026-05-21T11:09:18.594Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [none]
+[debug] [2026-05-21T11:09:18.594Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:19.579Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 400
+[debug] [2026-05-21T11:09:19.579Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/group-hrms/versions/bc60c1af41e6ca7a/files/ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 [stream]
+[debug] [2026-05-21T11:09:19.579Z] [hosting][upload] firebase-debug 2.log (ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9) HTTP ERROR 400: headers={"x-guploader-uploadid":["AAVLpEiuqh9oao62fde60KjHns-tQSLAEK32Q-LIUz0tXhFIuCqWTyjnTSxpfLP5mE66g5n2"],"content-length":["73"],"date":["Thu, 21 May 2026 11:09:19 GMT"],"server":["UploadServer"],"content-type":["text/html; charset=UTF-8"],"alt-svc":["h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"]} Couldn't process request (status=400): content hash doesn't match content
+[debug] Task ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 failed: retries exhausted after 6 attempts, with error: Unexpected error while uploading file: Couldn't process request (status=400): content hash doesn't match content
+[debug] [2026-05-21T11:09:19.580Z] [hosting][upload queue] upload failed with content hash error. Deleting hash cache
+[debug] [2026-05-21T11:09:19.581Z] [hosting] hash cache [] stored for 0 files
+[debug] [2026-05-21T11:09:19.581Z] [hosting][upload queue][FINAL] {"max":1970,"min":1970,"avg":1970,"active":0,"complete":2,"success":1,"errored":1,"retried":5,"total":2,"elapsed":18218}
+[debug] [2026-05-21T11:09:19.583Z] Error: Unexpected error while uploading file: Couldn't process request (status=400): content hash doesn't match content
+    at Uploader.uploadHandler (/usr/local/lib/node_modules/firebase-tools/lib/deploy/hosting/uploader.js:194:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Queue.executeTask (/usr/local/lib/node_modules/firebase-tools/lib/throttler/throttler.js:181:22)
+    at async Queue.handle (/usr/local/lib/node_modules/firebase-tools/lib/throttler/throttler.js:97:22)
+[error] 
+[error] Error: Task ecfbe318b65d3e4a7a853b2efd1950ef4990c47d30b47ca72ca0e05fe9dbcbc9 failed: retries exhausted after 6 attempts, with error: Unexpected error while uploading file: Couldn't process request (status=400): content hash doesn't match content

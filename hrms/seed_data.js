@@ -1,0 +1,20460 @@
+// Auto-generated · 123 employees · candidateId + payslips added
+window.AELIUS_SEED_EMPLOYEES = [
+  {
+    "eid": "APHL0003",
+    "oldCode": "SS075",
+    "name": "Anurag Kumar",
+    "firstName": "Anurag Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Product Management (PMS)",
+    "department": "Program Management Services",
+    "role": "Lead- Programme Management",
+    "doj": "2019-05-04",
+    "confirmDate": "2019-09-01",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1997-01-04",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "anurag.kumar@aeliusparallel.com",
+    "mobile": "7352506673",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 1200000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "EKYPK7127L",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2019-05-04"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2019-05-04"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2019-05-04"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sikandar Sah",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2019-05-04",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0004",
+    "oldCode": "APHL008",
+    "name": "Gopal Sharma",
+    "firstName": "Gopal Sharma",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "R&D / Formulation",
+    "department": "Research & Development",
+    "role": "Senior Formulation Chemist",
+    "doj": "2020-11-21",
+    "confirmDate": "2021-03-21",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1996-02-10",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "gopal.sharma@aeliusparallel.com",
+    "mobile": "7986760791",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 1200000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "HITPS5290E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2020-11-21"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2020-11-21"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2020-11-21"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sunil Sharma",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2020-11-21",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0005",
+    "oldCode": "APHL015",
+    "name": "Uday Kumar Singh",
+    "firstName": "Uday Kumar Singh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Finance & Accounts",
+    "department": "Accounting Office",
+    "role": "Sr. Accountant",
+    "doj": "2021-08-01",
+    "confirmDate": "2021-11-29",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1977-01-01",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "accounts@seasoulcosmetics.com",
+    "mobile": "9718466605",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 725004,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CFKPS5639L",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-08-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-08-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-08-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Kamal Dev Narayan Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Aarti Singh",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-08-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0006",
+    "oldCode": "APHL018",
+    "name": "Mukul Shriram",
+    "firstName": "Mukul Shriram",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Manufacturing Operations",
+    "department": "Manufacturing Services",
+    "role": "Manufacturing Chemist",
+    "doj": "2021-12-01",
+    "confirmDate": "2022-03-31",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1994-10-25",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "shriram.mukul@aeliusparallel.com",
+    "mobile": "9156969215",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 546996,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "METPS3716L",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-12-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-12-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-12-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2021-12-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0007",
+    "oldCode": "APHL028",
+    "name": "Basudev Das",
+    "firstName": "Basudev Das",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Admin & Facilities",
+    "department": "Administrative Services ",
+    "role": "Facility Management Supervisior",
+    "doj": "2024-01-15",
+    "confirmDate": "2024-05-14",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1975-10-30",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "factory.maintenance@seasoulcosmetics.com",
+    "mobile": "8076700074",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 441000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "ATXPD0527H",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-01-15"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-01-15"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-01-15"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Amulyaratan Das",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-01-15",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0008",
+    "oldCode": "APHL035",
+    "name": "Prashant Kumar Pandey",
+    "firstName": "Prashant Kumar Pandey",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Manufacturing Operations",
+    "department": "Manufacturing Services",
+    "role": "Production & Filling Supervisior",
+    "doj": "2024-07-01",
+    "confirmDate": "2024-10-29",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1996-05-07",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "prashant.pandey@aeliusparallel.com",
+    "mobile": "9149099166",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 536004,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "EAMPP2947B",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-07-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-07-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-07-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Naresh Kumar Pandey",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-07-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0009",
+    "oldCode": "APHL037",
+    "name": "Punit Kumar",
+    "firstName": "Punit Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Admin & Facilities",
+    "department": "Administrative Services ",
+    "role": "Lead - Assest Management Services",
+    "doj": "2024-07-27",
+    "confirmDate": "2024-11-24",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "2000-03-06",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "factory.maintenance@seasoulcosmetics.com",
+    "mobile": "8954991079",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 480000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "ICYPK8638A",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-07-27"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-07-27"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-07-27"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Rajendra Prasad",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Shivani Sharma",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-07-27",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0010",
+    "oldCode": "APHL039",
+    "name": "Mitanshi Jain",
+    "firstName": "Mitanshi Jain",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Quality Control & Assurance",
+    "department": "Quality Control & Assurance",
+    "role": "Junior QC",
+    "doj": "2024-12-23",
+    "confirmDate": "2025-04-22",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "2000-06-29",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "Mitanshi.j@aeliusparallel.com",
+    "mobile": "6375477252",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 414000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CYAPJ5817Q",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-12-23"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-12-23"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-12-23"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Mahendra Kumar Jain",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-12-23",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0011",
+    "oldCode": "APHL041",
+    "name": "Rinki Bisht",
+    "firstName": "Rinki Bisht",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Quality Control & Assurance",
+    "department": "Quality Control & Assurance",
+    "role": "Quality Control Executive",
+    "doj": "2025-02-10",
+    "confirmDate": "2025-06-10",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1999-11-21",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "Rinki.b@aeliusparallel.com",
+    "mobile": "7895788405",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 396000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "DSAPR3086N",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-02-10"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-02-10"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-02-10"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2025-02-10",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0012",
+    "oldCode": "APHL042",
+    "name": "Gunjan Kishore",
+    "firstName": "Gunjan Kishore",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Data & MIS",
+    "department": "Data Intelligence",
+    "role": "MIS Executive",
+    "doj": "2025-04-01",
+    "confirmDate": "2025-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "2000-08-19",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "mis@seasoulcosmetics.com",
+    "mobile": "6395056503",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 360000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "KCHPK9327M",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Ravi Kiran Kishore",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0013",
+    "oldCode": "APHL043",
+    "name": "Arvind Pal Singh",
+    "firstName": "Arvind Pal Singh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Quality Control & Assurance",
+    "department": "Quality Control & Assurance",
+    "role": "Head QC&QA",
+    "doj": "2025-04-10",
+    "confirmDate": "2025-08-08",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1986-12-08",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "arvind.singh@aeliusparallel.com",
+    "mobile": "8468030049/8923203835",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 1400004,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "HBXPS7782E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-04-10"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-04-10"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-04-10"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sahab Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Vandna",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-04-10",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0014",
+    "oldCode": "APHL044",
+    "name": "Ashish Chauhan",
+    "firstName": "Ashish Chauhan",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Procurement & SCM",
+    "department": "Warehosuing Services",
+    "role": "Asst warehouse manager",
+    "doj": "2025-05-07",
+    "confirmDate": "2025-09-04",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "2004-09-29",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "chauhan.ashish@aeliusparallel.com",
+    "mobile": "6398705959",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 264000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CVDPC0349G",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-05-07"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-05-07"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-05-07"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2025-05-07",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0015",
+    "oldCode": "SS043",
+    "name": "Aarti Sharma",
+    "firstName": "Aarti Sharma",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Finance & Accounts",
+    "department": "Accounting Office",
+    "role": "Accountant",
+    "doj": "2025-09-02",
+    "confirmDate": "2025-12-31",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "2000-11-10",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "accounts@aeliusparallel.com",
+    "mobile": "8527312935",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 480000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "KEYPS9704D",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-09-02"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-09-02"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-09-02"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Vinay Sharma",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-09-02",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0016",
+    "oldCode": "APHL048",
+    "name": "Ashish Kumar",
+    "firstName": "Ashish Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Admin & Facilities",
+    "department": "Administrative Services ",
+    "role": "Executive Asset Management",
+    "doj": "2025-09-08",
+    "confirmDate": "2026-01-06",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1997-01-04",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "factory.maintenance@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 336000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "FJKPK9706F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-09-08"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-09-08"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-09-08"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Arvind Kumar",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-09-08",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0017",
+    "oldCode": "APHL049",
+    "name": "Reva Saini",
+    "firstName": "Reva Saini",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Product Management (PMS)",
+    "department": "Program Management Services",
+    "role": "Program Management Associate",
+    "doj": "2025-09-15",
+    "confirmDate": "2026-01-13",
+    "leavingDate": "2026-04-15",
+    "status": "Active",
+    "gender": "F",
+    "dob": "2001-03-29",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "saini.reva@aeliusparallel.com",
+    "mobile": "7428452828",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 720000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "LTZPS5928N",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-09-15"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-09-15"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-09-15"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Harendra Saini",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-09-15",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0018",
+    "oldCode": "APHL050",
+    "name": "Ravi Shankar",
+    "firstName": "Ravi Shankar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Admin & Facilities",
+    "department": "Administrative Services ",
+    "role": "Jr. Executive Asset Management",
+    "doj": "2025-12-03",
+    "confirmDate": "2026-04-02",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "2004-03-10",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "factory.maintenance@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 252600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CUNPC7542J",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-12-03"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-12-03"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-12-03"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Ravinder Chaudhary",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-12-03",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0019",
+    "oldCode": "APHL051",
+    "name": "Lakshay Chaudhary",
+    "firstName": "Lakshay Chaudhary",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "R&D / Formulation",
+    "department": "Research & Development",
+    "role": "Formulation Chemist",
+    "doj": "2025-12-16",
+    "confirmDate": "2026-04-15",
+    "leavingDate": "2026-05-16",
+    "status": "Exited",
+    "gender": "M",
+    "dob": "1999-09-21",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "chaudhary.lakshay@aeliusparallel.com",
+    "mobile": "7906335206",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 1200000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BRQPC5658E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-12-16"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-12-16"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-12-16"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Ved Prakash",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-12-16",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-05-16",
+    "clearanceCompleteDate": "2026-05-16",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0020",
+    "oldCode": "APHL052",
+    "name": "Kamal Kant Gautam",
+    "firstName": "Kamal Kant Gautam",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Procurement & SCM",
+    "department": "Warehosuing Services",
+    "role": "Warehouse Manager",
+    "doj": "2026-01-02",
+    "confirmDate": "2026-05-02",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1981-08-25",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "gautam.kamal@aeliusparallel.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 960000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AOEPG0512P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-01-02"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-01-02"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-01-02"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Shri Narayan Gautam",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Jyoti Gautam",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-01-02",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0021",
+    "oldCode": "APHL054",
+    "name": "Diksha Singh",
+    "firstName": "Diksha Singh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Product Management (PMS)",
+    "department": "Program Management Services",
+    "role": "Programme Management Executive",
+    "doj": "2026-03-13",
+    "confirmDate": "2026-07-11",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1998-09-08",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "singh.diksha@aeliusparallel.com",
+    "mobile": "6264651230",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 525000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "MEPPS6523B",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-03-13"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-03-13"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-03-13"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Shailendra Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Anand Swarup Nigam",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-03-13",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0022",
+    "oldCode": "APHLW022",
+    "name": "Abhishek Kumar",
+    "firstName": "Abhishek Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Manufacturing Operations",
+    "department": "Manufacturing Services",
+    "role": "Supervisor Packaging Line",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "8009592387/7860558642",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 297600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "JCLPK9256E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0023",
+    "oldCode": "APHLW010",
+    "name": "Vinay Kumar Verma",
+    "firstName": "Vinay Kumar Verma",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Manufacturing Operations",
+    "department": "Manufacturing Services",
+    "role": "Executive Bulk Manufacturing",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "7897808018",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 297600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BUSPV9124P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0024",
+    "oldCode": "APHLW009",
+    "name": "Vivek Kumar",
+    "firstName": "Vivek Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Manufacturing Operations",
+    "department": "Manufacturing Services",
+    "role": "Supervisor Kt Assembly",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "2026-05-12",
+    "status": "Exited",
+    "gender": "M",
+    "dob": "",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "7607520824",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 297600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "JNXPK9947R",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-05-12",
+    "clearanceCompleteDate": "2026-05-12",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0025",
+    "oldCode": "APHLW008",
+    "name": "Prince Verma",
+    "firstName": "Prince Verma",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Manufacturing Operations",
+    "department": "Manufacturing Services",
+    "role": "Supervisor Sachet Machine",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "9625932339",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 297600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "GTOPP2571Q",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0026",
+    "oldCode": "APHLW012",
+    "name": "Chintu Kumar",
+    "firstName": "Chintu Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Manufacturing Operations",
+    "department": "Manufacturing Services",
+    "role": "Machine Operator / Filling Machine",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "6205755899",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 297600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "KCBPK1342E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0027",
+    "oldCode": "APHLW004",
+    "name": "Kailash Chandra",
+    "firstName": "Kailash Chandra",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Manufacturing Operations",
+    "department": "Manufacturing Services",
+    "role": "Machine Operator / Scahet Machine",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "7987944853",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 297600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BKWPC3154J",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0028",
+    "oldCode": "APHLW005",
+    "name": "Kunal Ranjan",
+    "firstName": "Kunal Ranjan",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "R&D / Formulation",
+    "department": "Research & Development",
+    "role": "Executive R&D",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "6203428138",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 336000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "EIXPR1233P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0029",
+    "oldCode": "",
+    "name": "Gursewak Singh",
+    "firstName": "Gursewak Singh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Admin & Facilities",
+    "department": "Administrative Services ",
+    "role": "Jr. Executive Asset Management",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1999-08-07",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "9310356829",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 297600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "IKTPS2362N",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Jagtar Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0030",
+    "oldCode": "",
+    "name": "Anmol Kumar",
+    "firstName": "Anmol Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Manufacturing Operations",
+    "department": "Manufacturing Services",
+    "role": "Supervisor Packaging Line",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1997-01-30",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "9123146437",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 264000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0031",
+    "oldCode": "",
+    "name": "Mahesh Shah",
+    "firstName": "Mahesh Shah",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Admin & Facilities",
+    "department": "Administrative Services ",
+    "role": "Driver",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 357408,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "APHL0032",
+    "oldCode": "",
+    "name": "Joginder Sngh Rana",
+    "firstName": "Joginder Sngh Rana",
+    "middleName": "",
+    "lastName": "",
+    "entity": "APHL",
+    "company": "AeliusParallel Holdings Pvt Ltd",
+    "vertical": "Admin & Facilities",
+    "department": "Administrative Services ",
+    "role": "Driver",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 357408,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0001",
+    "oldCode": "SS060",
+    "name": "Minakshi Arora",
+    "firstName": "Minakshi Arora",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Human Resources",
+    "department": "Training & Skill Development",
+    "role": "Technical Trainer -Expert",
+    "doj": "2021-05-17",
+    "confirmDate": "2021-09-14",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1992-03-17",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "kumar.minakshi@seasoulcosmetics.com",
+    "mobile": "8447189340",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 600000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BHRPA8734Q",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-05-17"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-05-17"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-05-17"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Chandra Bhushan Arora",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Sahil Kumar",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-05-17",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0002",
+    "oldCode": "KS056",
+    "name": "R Anandakumar",
+    "firstName": "R Anandakumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Head",
+    "doj": "2021-06-09",
+    "confirmDate": "2021-10-07",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1988-04-06",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "r.anand@seasoulcosmetics.com",
+    "mobile": "9965423389",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Chennai",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 738720,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AZEPA3764A",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-06-09"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-06-09"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-06-09"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "R Ramachandran",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "A Keerthana",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-06-09",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0003",
+    "oldCode": "KS057",
+    "name": "Sharon Stephen",
+    "firstName": "Sharon Stephen",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2021-06-09",
+    "confirmDate": "2021-10-07",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1990-11-21",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sharon.stephen@seasoulcosmetics.com",
+    "mobile": "9080200604 /9597316555",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Coimbatore",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 483840,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CVHPS7285R",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-06-09"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-06-09"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-06-09"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "David Stephen",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Sherwin Tennyson",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-06-09",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0004",
+    "oldCode": "KS097",
+    "name": "Devitha",
+    "firstName": "Devitha",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer -Expert",
+    "doj": "2021-07-12",
+    "confirmDate": "2021-11-09",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1982-11-16",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "devitha@seasoulcosmetics.com",
+    "mobile": "8778109867",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Chennai",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 570240,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AOYPD2533F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-07-12"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-07-12"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-07-12"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Velayutham",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Prabhu",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-07-12",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0005",
+    "oldCode": "APHL016",
+    "name": "Bharat Goswami",
+    "firstName": "Bharat Goswami",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Finance & Accounts",
+    "department": "Accounting Office",
+    "role": "Senior Accountant",
+    "doj": "2021-09-01",
+    "confirmDate": "2021-12-30",
+    "leavingDate": "2026-04-30",
+    "status": "Exited",
+    "gender": "M",
+    "dob": "1993-03-17",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "Bharat.Goswami@seasoulcosmetics.com",
+    "mobile": "9711002774",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 806004,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AYQPG2041P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-09-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-09-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-09-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Yogesh Goswami",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-09-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-30",
+    "clearanceCompleteDate": "2026-04-30",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0006",
+    "oldCode": "KS042",
+    "name": "Ajay Gupta",
+    "firstName": "Ajay Gupta",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2021-09-08",
+    "confirmDate": "2022-01-06",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1977-06-01",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "ajay.gupta@seasoulcosmetics.com",
+    "mobile": "9824406979",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Ahmedabad\ufeff",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 462000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AKMPG9482G",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-09-08"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-09-08"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-09-08"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Dwarikaprasad Gupta",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Gayatri Ajaykumar Gupta",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-09-08",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0007",
+    "oldCode": "KS078",
+    "name": "Karthikan S",
+    "firstName": "Karthikan S",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Head",
+    "doj": "2021-09-11",
+    "confirmDate": "2022-01-09",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1985-03-18",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "karthikan.s@seasoulcosmetics.com",
+    "mobile": "8660900193",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bengaluru",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 814200,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BXRPK7229N",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-09-11"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-09-11"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-09-11"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2021-09-11",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0008",
+    "oldCode": "KS059",
+    "name": "M Raju",
+    "firstName": "M Raju",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Area Sales Manager",
+    "doj": "2021-09-13",
+    "confirmDate": "2022-01-11",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1986-05-22",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "m.raju@seasoulcosmetics.com",
+    "mobile": "9704444394",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Hyderabad",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 781200,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AUQPM2414C",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-09-13"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-09-13"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-09-13"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Anjaiah Malkapuram",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-09-13",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0009",
+    "oldCode": "KS083",
+    "name": "Vipins P S",
+    "firstName": "Vipins P S",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Senior Business Development Manager",
+    "doj": "2021-10-11",
+    "confirmDate": "2022-02-08",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1993-05-11",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "vipin.ps@seasoulcosmetics.com",
+    "mobile": "9895303969",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Thiruvananthapuram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 604800,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "GDQPS5433E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-10-11"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-10-11"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-10-11"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Pushpakaran Nair",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-10-11",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0010",
+    "oldCode": "KS079",
+    "name": "Sakthish S",
+    "firstName": "Sakthish S",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Area Sales Manager",
+    "doj": "2021-11-15",
+    "confirmDate": "2022-03-15",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1985-12-08",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sakthish.s@seasoulcosmetics.com",
+    "mobile": "9962921568",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Chennai",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 582000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "ECPPS2006R",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2021-11-15"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2021-11-15"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2021-11-15"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sridharan",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2021-11-15",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0011",
+    "oldCode": "KS132",
+    "name": "Vishakha V.Sawant",
+    "firstName": "Vishakha V.Sawant",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2022-04-18",
+    "confirmDate": "2022-08-16",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1987-02-20",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "vishakha.sawant@seasoulcosmetics.com",
+    "mobile": "7977882433/9930752211",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Mumbai",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 497232,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BLCPS7607B",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2022-04-18"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2022-04-18"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2022-04-18"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Stephen Marchell Sequeira",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2022-04-18",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0012",
+    "oldCode": "APHL020",
+    "name": "Rohit Chaudhary",
+    "firstName": "Rohit Chaudhary",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "SOPSO",
+    "department": "Sales Operations & Planning Office",
+    "role": "Lead - Sales Operation Planning & Startegy Office",
+    "doj": "2022-05-10",
+    "confirmDate": "2022-09-07",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1992-09-01",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "rohit.chaudhary@seasoulcosmetics.com",
+    "mobile": "9999424784/9718440972",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 1440000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AUTPC8414D",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2022-05-10"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2022-05-10"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2022-05-10"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Joginder Chaudhary",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Vineeta Chaudhary",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2022-05-10",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0013",
+    "oldCode": "KS139",
+    "name": "Abhinav S. Bahadure",
+    "firstName": "Abhinav S. Bahadure",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2022-07-18",
+    "confirmDate": "2022-11-15",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1996-08-19",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "abhinav.bahadure@seasoulcosmetics.com",
+    "mobile": "9604707255",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Nagpur",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 506760,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "EPDPB9800K",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2022-07-18"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2022-07-18"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2022-07-18"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sanjay Bahadure",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2022-07-18",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0014",
+    "oldCode": "KS147",
+    "name": "Anju Sharma",
+    "firstName": "Anju Sharma",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2022-08-16",
+    "confirmDate": "2022-12-14",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1984-04-19",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "anju.sharma@seasoulcosmetics.com",
+    "mobile": "8794830275",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Shillong",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 448800,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "DTQPS5709N",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2022-08-16"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2022-08-16"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2022-08-16"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Mansingh Thapa",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2022-08-16",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0015",
+    "oldCode": "KS153",
+    "name": "Ajay Mishra",
+    "firstName": "Ajay Mishra",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2022-09-12",
+    "confirmDate": "2023-01-10",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1984-12-06",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "ajay.mishra@seasoulcosmetics.com",
+    "mobile": "9718885225",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Delhi NCR",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 546480,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BDOPM8978F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2022-09-12"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2022-09-12"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2022-09-12"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Surendra Narayan Mishra",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2022-09-12",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0016",
+    "oldCode": "KS157",
+    "name": "Jayanthi.R",
+    "firstName": "Jayanthi.R",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Senior Technical Trainer",
+    "doj": "2022-10-18",
+    "confirmDate": "2023-02-15",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1982-02-20",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "jayanthi.ramesh@seasoulcosmetics.com",
+    "mobile": "9019993667",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bengaluru",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 728640,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AVGPJ5926K",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2022-10-18"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2022-10-18"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2022-10-18"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "C. Ramesh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2022-10-18",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0017",
+    "oldCode": "KS172",
+    "name": "Payal Das",
+    "firstName": "Payal Das",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Senior Techno Sales",
+    "doj": "2023-01-23",
+    "confirmDate": "2023-05-23",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1993-03-25",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "payal.das@seasoulcosmetics.com",
+    "mobile": "7002329253",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Guwahati",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 499200,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BGEPD2389C",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2023-01-23"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2023-01-23"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2023-01-23"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Lt. Khokan Das",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2023-01-23",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0018",
+    "oldCode": "KS176",
+    "name": "Devi Thapa",
+    "firstName": "Devi Thapa",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2023-03-01",
+    "confirmDate": "2023-06-29",
+    "leavingDate": "2026-04-30",
+    "status": "Exited",
+    "gender": "F",
+    "dob": "1983-10-01",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "devi.t@seasoulcosmetics.com",
+    "mobile": "9678995094",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Silchar",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 276000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BALPT5498P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2023-03-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2023-03-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2023-03-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Prem Bahadur Thapa",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2023-03-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-30",
+    "clearanceCompleteDate": "2026-04-30",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0019",
+    "oldCode": "KS184",
+    "name": "Shariq Khan",
+    "firstName": "Shariq Khan",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Area Sales Manager",
+    "doj": "2023-04-10",
+    "confirmDate": "2023-08-08",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1986-07-02",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "shariq.khan@seasoulcosmetics.com",
+    "mobile": "9554610921/ 9389744805",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Lucknow",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 648000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CFOPK7451L",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2023-04-10"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2023-04-10"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2023-04-10"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Shakeel Ahmad",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Amreen Asif",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2023-04-10",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0020",
+    "oldCode": "KS185",
+    "name": "Chamta Kesarwani",
+    "firstName": "Chamta Kesarwani",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Techno Sales",
+    "doj": "2023-04-10",
+    "confirmDate": "2023-08-08",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1984-08-15",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "chamta.kesarwani@seasoulcosmetics.com",
+    "mobile": "9026556627",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Allahabad",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BXDPK6292B",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2023-04-10"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2023-04-10"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2023-04-10"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Prem Chandra Kesarwani",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2023-04-10",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0021",
+    "oldCode": "KS188",
+    "name": "Sonia S",
+    "firstName": "Sonia S",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2023-05-01",
+    "confirmDate": "2023-08-29",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1984-05-12",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sonia.s@seasoulcosmetics.com",
+    "mobile": "8137807095",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Kochi",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 528000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "Jovps7695K",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2023-05-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2023-05-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2023-05-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Nazerath Stancilaus",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2023-05-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0022",
+    "oldCode": "KS208",
+    "name": "Kiran Kumar Patel",
+    "firstName": "Kiran Kumar Patel",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Area Sales Manager",
+    "doj": "2024-01-02",
+    "confirmDate": "2024-05-01",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1981-09-20",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "kiran.patel@seasoulcosmetics.com",
+    "mobile": "9510845745",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Ahmedabad\ufeff",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 462000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CSLPP6946D",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-01-02"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-01-02"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-01-02"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Patel Kanubhai Monhanlal",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Priti",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-01-02",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0023",
+    "oldCode": "APHL032",
+    "name": "Amit Singh",
+    "firstName": "Amit Singh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "E-Commerce & Online Sales",
+    "role": "E-COM  Manager",
+    "doj": "2024-04-01",
+    "confirmDate": "2024-07-30",
+    "leavingDate": "2026-04-06",
+    "status": "Exited",
+    "gender": "",
+    "dob": "1994-08-07",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "amit.singh@seasoulcosmetics.com",
+    "mobile": "8285652334",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 756000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "EZMPS9423L",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Gauri Shankar Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-06",
+    "clearanceCompleteDate": "2026-04-06",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0024",
+    "oldCode": "APHL034",
+    "name": "Sameer Kumar",
+    "firstName": "Sameer Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Marketing & Brand",
+    "department": "Marketing",
+    "role": "Creative Artist",
+    "doj": "2024-05-04",
+    "confirmDate": "2024-09-01",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "2002-12-06",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "creative.design@seasoulcosmetics.com",
+    "mobile": "9773532251",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 360000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "PGCPK9999B",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-05-04"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-05-04"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-05-04"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Anil Kumar",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-05-04",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0025",
+    "oldCode": "KS230",
+    "name": "Keerti Santosh Bagade",
+    "firstName": "Keerti Santosh Bagade",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2024-06-05",
+    "confirmDate": "2024-10-03",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1988-06-16",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "keerthi.bagade@seasoulcosmetics.com",
+    "mobile": "6364366904",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bengaluru",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 504000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BLNPB4630G",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-06-05"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-06-05"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-06-05"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Keerti Santosh Bagade",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-06-05",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0026",
+    "oldCode": "SS035",
+    "name": "Ritika Roy",
+    "firstName": "Ritika Roy",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Admin & Facilities",
+    "department": "Administrative Services",
+    "role": "Human Resource Executive",
+    "doj": "2024-06-12",
+    "confirmDate": "2024-10-10",
+    "leavingDate": "2026-04-27",
+    "status": "Exited",
+    "gender": "",
+    "dob": "2000-12-28",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "hr@seasoulcosmetics.com",
+    "mobile": "6205679799",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 425004,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "FJYPR2160G",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-06-12"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-06-12"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-06-12"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sanjay Kumar",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-06-12",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-27",
+    "clearanceCompleteDate": "2026-04-27",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0027",
+    "oldCode": "KS233",
+    "name": "Korrayya Siva Kumar",
+    "firstName": "Korrayya Siva Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2024-07-10",
+    "confirmDate": "2024-11-07",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1988-10-10",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "korrayya.kumar@seasoulcosmetics.com",
+    "mobile": "7989344573, 9966962219",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Visakhapatnam",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 576000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BTVPK6578E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-07-10"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-07-10"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-07-10"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Korrayya Siva Kumar",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Lekkala Mutyamamma",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-07-10",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0028",
+    "oldCode": "KS238",
+    "name": "Suneyna Gavshinde",
+    "firstName": "Suneyna Gavshinde",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Area Sales Manager",
+    "doj": "2024-08-07",
+    "confirmDate": "2024-12-05",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1980-08-06",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "suneya.gavshinde@seasoulcosmetics.com",
+    "mobile": "8817310222",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bhopal",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 600000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "ARWPG8054F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-08-07"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-08-07"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-08-07"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Ramcharan Solanki",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Gopal Govshindhe",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-08-07",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0029",
+    "oldCode": "KS241",
+    "name": "Niva Rajbongshi",
+    "firstName": "Niva Rajbongshi",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2024-08-07",
+    "confirmDate": "2024-12-05",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1987-10-30",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "niva.rajbongshi@seasoulcosmetics.com",
+    "mobile": "8404045635",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Silchar",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 276000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AYPPR6956H",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-08-07"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-08-07"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-08-07"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Ramananda Rajbongshi",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Niva Rajbongshi Chutia",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-08-07",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0030",
+    "oldCode": "KS242",
+    "name": "Hirak Jyoti Barman",
+    "firstName": "Hirak Jyoti Barman",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2024-08-24",
+    "confirmDate": "2024-12-22",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1994-03-06",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "jyoti.barman@seasoulcosmetics.com",
+    "mobile": "9706936279",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Guwahati",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 237600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BNBPB8958D",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-08-24"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-08-24"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-08-24"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Harendra Barman",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-08-24",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0031",
+    "oldCode": "KS248",
+    "name": "Roshan Dinesh",
+    "firstName": "Roshan Dinesh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2024-09-05",
+    "confirmDate": "2025-01-03",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1994-01-16",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "roshan.dinesh@seasoulcosmetics.com",
+    "mobile": "8892891269",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bengaluru",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 475200,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BUQPD2455K",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-09-05"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-09-05"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-09-05"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "K Dinesh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Rashmi Dinesh",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-09-05",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0032",
+    "oldCode": "KS249",
+    "name": "Santoshi Maruti Kadam",
+    "firstName": "Santoshi Maruti Kadam",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2024-09-26",
+    "confirmDate": "2025-01-24",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1994-06-05",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "santoshi.kadam@seasoulcosmetics.com",
+    "mobile": "9867820129",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Mumbai",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 360000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CTKPK9821J",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-09-26"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-09-26"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-09-26"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Maruti Ananda Kadam",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Prathamesh Sawant",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-09-26",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0033",
+    "oldCode": "KS250",
+    "name": "Pooja S",
+    "firstName": "Pooja S",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2024-10-21",
+    "confirmDate": "2025-02-18",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1994-03-11",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "pooja.s@seasoulcosmetics.com",
+    "mobile": "8951243129",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bengaluru",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 501600,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CUCPP7491L",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-10-21"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-10-21"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-10-21"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Shambhu Prasad",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-10-21",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0034",
+    "oldCode": "KS252",
+    "name": "Mounika Kaithala",
+    "firstName": "Mounika Kaithala",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Techno Sales",
+    "doj": "2024-11-11",
+    "confirmDate": "2025-03-11",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1999-11-22",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "Mounika.k@seasoulcosmetics.com",
+    "mobile": "7569944799",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Hyderabad",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 360000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "JYPPK8354F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-11-11"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-11-11"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-11-11"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Kagithala Srihari",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-11-11",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0035",
+    "oldCode": "KS253",
+    "name": "Mandeep Singh",
+    "firstName": "Mandeep Singh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Head",
+    "doj": "2024-11-13",
+    "confirmDate": "2025-03-13",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1985-05-28",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "Mandeep.singh@seasoulcosmetics.com",
+    "mobile": "9115117811",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Ludhiana",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 540000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "Fphs7516n",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2024-11-13"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2024-11-13"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2024-11-13"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "S Ajit Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Kamaljeet Kaur",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2024-11-13",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0036",
+    "oldCode": "KS265",
+    "name": "Nisha Bhatia",
+    "firstName": "Nisha Bhatia",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2025-02-01",
+    "confirmDate": "2025-06-01",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1984-12-07",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "nisha.bhatia@seasoulcosmetics.com",
+    "mobile": "9984993388",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Kanpur",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 312000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BTOPB3430R",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-02-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-02-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-02-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Ram Lal Bhatia",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Anoop Bhatia",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-02-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0037",
+    "oldCode": "KS266",
+    "name": "Manohar.B. Bannigol",
+    "firstName": "Manohar.B. Bannigol",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2025-02-03",
+    "confirmDate": "2025-06-03",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1981-05-21",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "Manohar.bannigol@seasoulcosmetics.com",
+    "mobile": "7899227727",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Hubli",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 456000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "ARHPB9975D",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-02-03"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-02-03"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-02-03"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Basavaraj",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Saroja",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-02-03",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0038",
+    "oldCode": "KS268",
+    "name": "Mohammad Naseema",
+    "firstName": "Mohammad Naseema",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Senior Techno Sales",
+    "doj": "2025-02-07",
+    "confirmDate": "2025-06-07",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1986-08-27",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "m.naseema@seasoulcosmetics.com",
+    "mobile": "70167 76460",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Visakhapatnam",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AEZPN5978F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-02-07"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-02-07"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-02-07"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Yuseef Mohammad",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-02-07",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0039",
+    "oldCode": "KS272",
+    "name": "V.Sowbhagyavathi",
+    "firstName": "V.Sowbhagyavathi",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Senior Skin Technical Trainer",
+    "doj": "2025-02-15",
+    "confirmDate": "2025-06-15",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1986-10-12",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "v.sowbhagyavathi@seasoulcosmetics.com",
+    "mobile": "8639905187",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Hyderabad",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 540000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CLCPS5994N",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-02-15"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-02-15"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-02-15"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Mj Vinod Kumar",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Vinod",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-02-15",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0040",
+    "oldCode": "SS037",
+    "name": "Ashikant Pathak",
+    "firstName": "Ashikant Pathak",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "SOPSO",
+    "department": "Sales Operations & Planning Office",
+    "role": "Warehouse Executive",
+    "doj": "2025-03-05",
+    "confirmDate": "2025-07-03",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1995-05-03",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "Ashikant@seasoulcosmetics.com",
+    "mobile": "7000209879",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 409920,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CZNPP3623A",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-03-05"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-03-05"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-03-05"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Ashikant Pathak",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Dipu Pathak",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-03-05",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0041",
+    "oldCode": "KS278",
+    "name": "Babu P",
+    "firstName": "Babu P",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2025-04-09",
+    "confirmDate": "2025-08-07",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1999-10-06",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "babu.p@seasoulcosmetics.com",
+    "mobile": "8778350304",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Madurai",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 336000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "HYNPP3722E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-04-09"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-04-09"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-04-09"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Pandiyarajan",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-04-09",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0042",
+    "oldCode": "KS284",
+    "name": "Mohammed Ashif PA",
+    "firstName": "Mohammed Ashif PA",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2025-04-24",
+    "confirmDate": "2025-08-22",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1994-03-24",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "mohammed.ashif@seasoulcosmetics.com",
+    "mobile": "8714145645",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Kochi",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "DHHPP7873M",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-04-24"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-04-24"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-04-24"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Abdul Khader",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Farhana K A",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-04-24",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0043",
+    "oldCode": "KS285",
+    "name": "Kalashikam Ramesh",
+    "firstName": "Kalashikam Ramesh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2025-05-10",
+    "confirmDate": "2025-09-07",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1984-05-08",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "ramesh.k@seasoulcosmetics.com",
+    "mobile": "9963259970",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Hyderabad",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 396000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "EEIPK2710M",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-05-10"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-05-10"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-05-10"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Kalashikam Sathaiah",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "K. Ramana",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-05-10",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0044",
+    "oldCode": "KS287",
+    "name": "Murali",
+    "firstName": "Murali",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2025-06-05",
+    "confirmDate": "2025-10-03",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1997-07-11",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "murali.m@seasoulcosmetics.com",
+    "mobile": "8095340422",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bengaluru",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 528000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "DVPPM5180N",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-06-05"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-06-05"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-06-05"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Murugesan",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Priya B",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-06-05",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0045",
+    "oldCode": "SS039",
+    "name": "Jyoti kaushik",
+    "firstName": "Jyoti kaushik",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Finance & Accounts",
+    "department": "Accounting Office",
+    "role": "Accountant",
+    "doj": "2025-06-09",
+    "confirmDate": "2025-10-07",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1999-02-27",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "billing@seasoulcosmetics.com",
+    "mobile": "8930370932",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 180000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "FTVPK8858P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-06-09"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-06-09"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-06-09"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sunil Kaushik",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-06-09",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0047",
+    "oldCode": "KS294",
+    "name": "Manjit Kaur",
+    "firstName": "Manjit Kaur",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2025-06-18",
+    "confirmDate": "2025-10-16",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1985-08-08",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "kaur.manjit@seasoulcosmetics.com",
+    "mobile": "7814554093",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Ludhiana",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 264000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "GQSPK8444J",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-06-18"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-06-18"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-06-18"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Harbans Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-06-18",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0048",
+    "oldCode": "KS296",
+    "name": "Don Sebastian",
+    "firstName": "Don Sebastian",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2025-07-01",
+    "confirmDate": "2025-10-29",
+    "leavingDate": "2026-04-10",
+    "status": "Exited",
+    "gender": "M",
+    "dob": "1996-04-26",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sebastian.don@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Kozhikode",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "NIPPS0388D",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-07-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-07-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-07-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sebastian",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-07-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-10",
+    "clearanceCompleteDate": "2026-04-10",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0049",
+    "oldCode": "KS301",
+    "name": "Roja R",
+    "firstName": "Roja R",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2025-07-07",
+    "confirmDate": "2025-11-04",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1998-08-20",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "r.roja@seasoulcosmetics.com",
+    "mobile": "8072624613",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Coimbatore",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "DQPPR574C",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-07-07"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-07-07"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-07-07"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Rajamanikam",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-07-07",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0050",
+    "oldCode": "KS305",
+    "name": "Deepak Rawat",
+    "firstName": "Deepak Rawat",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Area Sales Manager",
+    "doj": "2025-07-21",
+    "confirmDate": "2025-11-18",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1982-02-28",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "rawat.deepak@seasoulcosmetics.com",
+    "mobile": "8058624345",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Jaipur",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 720000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AMLPR0931L",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-07-21"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-07-21"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-07-21"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Bal Kishan Rawat",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Krishna Gupta",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-07-21",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0051",
+    "oldCode": "KS307",
+    "name": "Koushik Kar",
+    "firstName": "Koushik Kar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Area Sales Manager",
+    "doj": "2025-08-04",
+    "confirmDate": "2025-12-02",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1994-12-24",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "kar.koushik@seasoulcosmetics.com",
+    "mobile": "9038803517",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Kolkata",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 432000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CVYPK2063C",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-08-04"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-08-04"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-08-04"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Kanai Lal Kar",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Rekha Tigga",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-08-04",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0052",
+    "oldCode": "KS283",
+    "name": "Vijay Jha",
+    "firstName": "Vijay Jha",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2025-08-04",
+    "confirmDate": "2025-12-02",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1996-07-13",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "jha.vijay@seasoulcosmetics.com",
+    "mobile": "7003657010",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Kolkata",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 240000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "Cllpj5081j",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-08-04"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-08-04"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-08-04"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Narayan Jha",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Nisha Jha",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-08-04",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0053",
+    "oldCode": "KS314",
+    "name": "Chottu Debnath",
+    "firstName": "Chottu Debnath",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2025-08-18",
+    "confirmDate": "2025-12-16",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1987-12-19",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "debnath.chottu@seasoulcosmetics.com",
+    "mobile": "8471891231",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Jorhat",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 216000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AZCPD5920B",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-08-18"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-08-18"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-08-18"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Chandan Debnath",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Bulan Karmakar",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-08-18",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0055",
+    "oldCode": "KS316",
+    "name": "Tamilselvi Selvam",
+    "firstName": "Tamilselvi Selvam",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2025-08-18",
+    "confirmDate": "2025-12-16",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1998-07-10",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "s.selvi@seasoulcosmetics.com",
+    "mobile": "8925375131",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Chennai",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 456000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "OQQPS8146K",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-08-18"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-08-18"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-08-18"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Selvam Ramasamy",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Sarath Kanna",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-08-18",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0056",
+    "oldCode": "KS317",
+    "name": "Ishan Bhadauria",
+    "firstName": "Ishan Bhadauria",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2025-08-18",
+    "confirmDate": "2025-12-16",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "2001-08-02",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "bhadauria.ishan@seasoulcosmetics.com",
+    "mobile": "9516523974",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bhopal",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 240000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "FYJPB9078P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-08-18"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-08-18"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-08-18"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Rajnish Bhadauria",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-08-18",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0057",
+    "oldCode": "KS318",
+    "name": "Chetan\ufeff Sharma",
+    "firstName": "Chetan\ufeff Sharma",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2025-09-01",
+    "confirmDate": "2025-12-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1992-02-07",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sharma.chetan@seasoulcosmetics.com",
+    "mobile": "6283483824",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Ludhiana\ufeff",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 408000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "IJNPS3266Q",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-09-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-09-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-09-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Late Sh Rajpal Sharma",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Sonia Sharma",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-09-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0058",
+    "oldCode": "KS320",
+    "name": "Saleen shaikh",
+    "firstName": "Saleen shaikh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2025-09-01",
+    "confirmDate": "2025-12-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1998-08-26",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sheikh.saleen@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Ahmedabad\ufeff",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 360000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-09-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-09-01"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Shekh Firojbhai Abdulrasid",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-09-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0059",
+    "oldCode": "SS042",
+    "name": "Anukriti",
+    "firstName": "Anukriti",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "SOPSO",
+    "department": "Sales Operations & Planning Office",
+    "role": "Sales Corodinator",
+    "doj": "2025-09-01",
+    "confirmDate": "2025-12-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1999-02-24",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sopso@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 312000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-09-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-09-01"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sanjeev Kumar",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-09-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0060",
+    "oldCode": "KS243",
+    "name": "Anita Chandel",
+    "firstName": "Anita Chandel",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Techno Sales",
+    "doj": "2025-09-17",
+    "confirmDate": "2026-01-15",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1990-10-02",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "chandel.anita@seasoulcosmetics.com",
+    "mobile": "9630820300",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Indore",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "ICYPK8638A",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-09-17"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-09-17"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-09-17"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Kashiram Aathiya",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Raj Kumar Chandel",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-09-17",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0061",
+    "oldCode": "KS323",
+    "name": "Vivek\u00a0Shikha",
+    "firstName": "Vivek\u00a0Shikha",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2025-10-03",
+    "confirmDate": "2026-01-31",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1997-07-02",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "shikha.vivek@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Mumbai",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 480000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "GFMPS301J",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-10-03"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-10-03"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-10-03"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Mukteswar Prasad",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-10-03",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0063",
+    "oldCode": "KS326",
+    "name": "Rakesh Kumar P. Mishra",
+    "firstName": "Rakesh Kumar P. Mishra",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2025-10-13",
+    "confirmDate": "2026-02-10",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1986-08-14",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "mishra.rakesh@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Mumbai",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 840000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AOYPM3764R",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-10-13"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-10-13"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-10-13"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Premshankar Mishra",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-10-13",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0064",
+    "oldCode": "KS327",
+    "name": "Shaik abdul Subhan",
+    "firstName": "Shaik abdul Subhan",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2025-10-23",
+    "confirmDate": "2026-02-20",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1991-08-22",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "subhan.shaik@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Vijaywada",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "GEAPS5233F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-10-23"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-10-23"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-10-23"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Shaik Hassain",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Shaik Abida Parveen",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-10-23",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0065",
+    "oldCode": "KS328",
+    "name": "Peali Bepari",
+    "firstName": "Peali Bepari",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2025-10-23",
+    "confirmDate": "2026-02-20",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1987-08-18",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "bepari.peali@seasoulcosmetics.com",
+    "mobile": "8777574915",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Kolkata",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 240000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BATPB8669L",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-10-23"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-10-23"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-10-23"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Harendranath Bepari",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-10-23",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0067",
+    "oldCode": "KS333",
+    "name": "Rajwinder Kaur",
+    "firstName": "Rajwinder Kaur",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2025-11-06",
+    "confirmDate": "2026-03-06",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1989-10-10",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "kaur.rajwinder@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Amritsar",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 360000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "EASPK5521C",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-11-06"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-11-06"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-11-06"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Madan Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-11-06",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0068",
+    "oldCode": "KS256",
+    "name": "Devkaran Bhudharjibhai Sagathiya",
+    "firstName": "Devkaran Bhudharjibhai Sagathiya",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2025-11-06",
+    "confirmDate": "2026-03-06",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1970-07-30",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "Devkaran.s@seasoulcosmetics.com",
+    "mobile": "9904422592",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Rajkot",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 288000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "DBBPS0855Q",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-11-06"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-11-06"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-11-06"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Bhudharjibhai Ukabhai Sagathiya",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Induben Devkaran Sagathiya",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-11-06",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0069",
+    "oldCode": "KS334",
+    "name": "Shahbaaz Khan",
+    "firstName": "Shahbaaz Khan",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2025-11-07",
+    "confirmDate": "2026-03-07",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1994-05-23",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "khan.shahbaaz@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Hyderabad",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 678480,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "DTDPK0978J",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-11-07"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-11-07"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-11-07"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Maqbool Khan",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Tanaaz",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-11-07",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0070",
+    "oldCode": "KS335",
+    "name": "Honey C B",
+    "firstName": "Honey C B",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Techno Sales",
+    "doj": "2025-11-10",
+    "confirmDate": "2026-03-10",
+    "leavingDate": "2026-04-10",
+    "status": "Exited",
+    "gender": "M",
+    "dob": "1984-01-23",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "b.honey@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Thrissur",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 240000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-11-10"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-11-10"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2025-11-10",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-10",
+    "clearanceCompleteDate": "2026-04-10",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0071",
+    "oldCode": "KS336",
+    "name": "Jerin Rajan Mathew",
+    "firstName": "Jerin Rajan Mathew",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2025-11-10",
+    "confirmDate": "2026-03-10",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1997-05-11",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "jerin@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Pathanamthitta",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-11-10"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-11-10"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2025-11-10",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0072",
+    "oldCode": "KS337",
+    "name": "Monika Verma",
+    "firstName": "Monika Verma",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2025-11-13",
+    "confirmDate": "2026-03-13",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1993-09-09",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "verma.monika@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bhopal",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 384000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BZUPV5243A",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-11-13"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-11-13"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-11-13"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Rajendra Verma",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-11-13",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0073",
+    "oldCode": "KS338",
+    "name": "Sanyog Shinde",
+    "firstName": "Sanyog Shinde",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2025-11-20",
+    "confirmDate": "2026-03-20",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1993-11-17",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "shinde.sanyog@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Nashik",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 300000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "JFRPS6343H",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-11-20"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-11-20"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-11-20"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sanjay Shinde",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-11-20",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0074",
+    "oldCode": "SS044",
+    "name": "Sanjana Saraswat",
+    "firstName": "Sanjana Saraswat",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Marketing & Brand",
+    "department": "Marketing",
+    "role": "Marketing Executive",
+    "doj": "2025-12-02",
+    "confirmDate": "2026-04-01",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "2002-01-17",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "saraswat.sanjana@seasoulcosmetics.com",
+    "mobile": "7275650026",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 600000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "POHPS5173A",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-12-02"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-12-02"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-12-02"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sanjay Saraswat",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-12-02",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0075",
+    "oldCode": "KS340",
+    "name": "Gourav Sharma",
+    "firstName": "Gourav Sharma",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2025-12-03",
+    "confirmDate": "2026-04-02",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "2005-06-15",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sharma.gourav@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Jammu",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 240000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "SPBPS6417F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-12-03"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-12-03"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-12-03"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sh.Manga Ram",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-12-03",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0076",
+    "oldCode": "KS343",
+    "name": "Bhupinder Kaur",
+    "firstName": "Bhupinder Kaur",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2025-12-03",
+    "confirmDate": "2026-04-02",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1977-02-28",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "kaur.bhupinder@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Chandigarh",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 300000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BLRPK0703K",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2025-12-03"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-12-03"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-12-03"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "S Harbans Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-12-03",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0077",
+    "oldCode": "KS345",
+    "name": "Ujjawal Kumar Pandey",
+    "firstName": "Ujjawal Kumar Pandey",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2025-12-15",
+    "confirmDate": "2026-04-14",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1999-08-15",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "pandey.ujjawal@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Varanasi",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 276000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-12-15"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-12-15"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2025-12-15",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0078",
+    "oldCode": "KS346",
+    "name": "Mousumi Sarkar",
+    "firstName": "Mousumi Sarkar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2025-12-18",
+    "confirmDate": "2026-04-17",
+    "leavingDate": "2026-04-11",
+    "status": "Exited",
+    "gender": "F",
+    "dob": "1988-01-01",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sarkar.mousumi@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Kolkata",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 240000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2025-12-18"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2025-12-18"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Bishnu Sarkar",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2025-12-18",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-11",
+    "clearanceCompleteDate": "2026-04-11",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0079",
+    "oldCode": "KS354",
+    "name": "Gajendra Shakywal",
+    "firstName": "Gajendra Shakywal",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Manager",
+    "doj": "2026-01-05",
+    "confirmDate": "2026-05-05",
+    "leavingDate": "2026-04-11",
+    "status": "Exited",
+    "gender": "M",
+    "dob": "1983-10-16",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "shakywal.gajendra@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Udaipur",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 480000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-01-05"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-01-05"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Yuvraj Ji",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-01-05",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-11",
+    "clearanceCompleteDate": "2026-04-11",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0080",
+    "oldCode": "KS350",
+    "name": "Abhishek Paul",
+    "firstName": "Abhishek Paul",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2026-01-05",
+    "confirmDate": "2026-05-05",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1992-12-03",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "paul.abhishek@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Tinsukia",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 336000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BWNPP2321P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-01-05"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-01-05"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-01-05"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Haripada Paul",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-01-05",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0081",
+    "oldCode": "KS349",
+    "name": "Neha Singh",
+    "firstName": "Neha Singh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2026-01-07",
+    "confirmDate": "2026-05-07",
+    "leavingDate": "2026-04-30",
+    "status": "Exited",
+    "gender": "F",
+    "dob": "2001-04-20",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "singh.neha@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Amritsar",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 300000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-01-07"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-01-07"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sajjan Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-01-07",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-30",
+    "clearanceCompleteDate": "2026-04-30",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0082",
+    "oldCode": "KS352",
+    "name": "Kalpana Sonone",
+    "firstName": "Kalpana Sonone",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer (Skin & Hair)",
+    "doj": "2026-01-15",
+    "confirmDate": "2026-05-15",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1987-01-05",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "sonone.kalpana@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Nagpur",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 408000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BUXPS8573E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-01-15"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-01-15"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-01-15"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Bhanudas Gopal Sonone",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-01-15",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0083",
+    "oldCode": "KS353",
+    "name": "Tapre Veena Shailesh",
+    "firstName": "Tapre Veena Shailesh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Techno Sales",
+    "doj": "2026-01-15",
+    "confirmDate": "2026-05-15",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1989-02-14",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "shailesh.tapre@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Baroda",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 360000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BTJPS1323P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-01-15"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-01-15"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-01-15"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sureshbhai Sali",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Shailesh Tapre",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-01-15",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0084",
+    "oldCode": "APHL053",
+    "name": "Nitesh Prajapati",
+    "firstName": "Nitesh Prajapati",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "E-Commerce & Online Sales",
+    "role": "E-commerce Operations Executive",
+    "doj": "2026-01-16",
+    "confirmDate": "2026-05-16",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "2000-05-26",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "ecommerce.ops@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 285000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-01-16"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-01-16"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [],
+    "createdAt": "2026-01-16",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0085",
+    "oldCode": "KS355",
+    "name": "Abhishek Gajanan Ghode",
+    "firstName": "Abhishek Gajanan Ghode",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2026-02-09",
+    "confirmDate": "2026-06-09",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "2000-03-22",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "ghode.abhishek@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Amravati",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 276000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "DMBPG0220A",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Gajanan Shankarrao Ghode",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-02-09",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0086",
+    "oldCode": "KS356",
+    "name": "Abhinandan Mehra",
+    "firstName": "Abhinandan Mehra",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2026-02-09",
+    "confirmDate": "2026-06-09",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1997-09-03",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "mehra.abhinandan@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Lucknow",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CWIPM4790F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Raj Kumar Mehra",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Deepali Mehra",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-02-09",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0087",
+    "oldCode": "KS357",
+    "name": "Som Singh",
+    "firstName": "Som Singh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer - Hair",
+    "doj": "2026-02-09",
+    "confirmDate": "2026-06-09",
+    "leavingDate": "2026-05-12",
+    "status": "Exited",
+    "gender": "M",
+    "dob": "2003-02-04",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "singh.som@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Lucknow",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 264000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sher Singh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-02-09",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-05-12",
+    "clearanceCompleteDate": "2026-05-12",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0088",
+    "oldCode": "KS358",
+    "name": "Sherin K A",
+    "firstName": "Sherin K A",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2026-02-09",
+    "confirmDate": "2026-06-09",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1992-11-23",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "ka.sherin@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Palakkad",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "FHBPS1625E",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-02-09"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Anver Hussain K A",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Nishad H",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-02-09",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0089",
+    "oldCode": "KS360",
+    "name": "Meghna Khosla",
+    "firstName": "Meghna Khosla",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Technical Trainer",
+    "doj": "2026-02-16",
+    "confirmDate": "2026-06-16",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "",
+    "dob": "1983-03-10",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "khosla.meghna@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Jaipur",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 480000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AXMPk0074F",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-02-16"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-02-16"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-02-16"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Kishor Ramanath Khosla",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Gaurav Khurana",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-02-16",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0091",
+    "oldCode": "KS363",
+    "name": "Jasveer Singh Gahlot",
+    "firstName": "Jasveer Singh Gahlot",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2026-03-02",
+    "confirmDate": "2026-06-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "2001-03-02",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "gahlot.jasveer@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Jaipur",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 240000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "FBUPG2480J",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-03-02"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-03-02"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-03-02"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Ramesh Gahalot",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-03-02",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0092",
+    "oldCode": "KS366",
+    "name": "Vikram Kumar",
+    "firstName": "Vikram Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Sales Officer",
+    "doj": "2026-03-09",
+    "confirmDate": "2026-07-07",
+    "leavingDate": "2026-04-30",
+    "status": "Exited",
+    "gender": "M",
+    "dob": "1999-10-22",
+    "maritalStatus": "Single",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "kumar.vikram@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bathinda",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 240000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "FYCPK7969H",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-03-09"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-03-09"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-03-09"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Desraj",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-03-09",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-30",
+    "clearanceCompleteDate": "2026-04-30",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0093",
+    "oldCode": "",
+    "name": "Vinitha V",
+    "firstName": "Vinitha V",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Marketing & Brand",
+    "department": "Marketing",
+    "role": "Communication Associate",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1991-09-14",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bengaluru",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 300408,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "AYNPV2922R",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Vijayan Palakkad Appukuttan",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0094",
+    "oldCode": "",
+    "name": "Lidya S",
+    "firstName": "Lidya S",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "E-Commerce & Online Sales",
+    "role": "E-commerce Associate",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "F",
+    "dob": "1991-10-24",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "onlinefulfilment@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bengaluru",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420408,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "FCKPS3857J",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Sabastian Anthony",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0095",
+    "oldCode": "",
+    "name": "Ashish Kumar",
+    "firstName": "Ashish Kumar",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Admin & Facilities",
+    "department": "Administrative Services ",
+    "role": "Executive Asset Management",
+    "doj": "2026-04-01",
+    "confirmDate": "2026-07-30",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1997-01-04",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "Sankalp Chopra",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 263520,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-01"
+      },
+      {
+        "name": "PAN Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Ramnaresh",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-04-01",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0096",
+    "oldCode": "",
+    "name": "Shivji Mishra",
+    "firstName": "Shivji Mishra",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2026-04-06",
+    "confirmDate": "2026-08-04",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1990-08-01",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "mishra.shivji@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Gurugram",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 360408,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "CTRPM5522P",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-06"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-06"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-06"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Shiv Mishra",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-04-06",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0097",
+    "oldCode": "",
+    "name": "Alok Mehlotra",
+    "firstName": "Alok Mehlotra",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "Regional Sales & Technical Team",
+    "role": "Business Development Executive",
+    "doj": "2026-04-08",
+    "confirmDate": "2026-08-06",
+    "leavingDate": "",
+    "status": "Active",
+    "gender": "M",
+    "dob": "1971-08-18",
+    "maritalStatus": "",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "mehrotra.alok@seasoulcosmetics.com",
+    "mobile": "",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bareilly",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 420408,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "BDLPM5091G",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-08"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-08"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-08"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "S K Mehra",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-04-08",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "",
+    "clearanceCompleteDate": "",
+    "candidateId": "",
+    "payslips": []
+  },
+  {
+    "eid": "VD0098",
+    "oldCode": "",
+    "name": "Pranjal Singh",
+    "firstName": "Pranjal Singh",
+    "middleName": "",
+    "lastName": "",
+    "entity": "Veridian",
+    "company": "Veridian Brands Pvt Ltd",
+    "vertical": "Sales & BD",
+    "department": "E-Commerce & Online Sales",
+    "role": "E-commerce Manager",
+    "doj": "2026-04-15",
+    "confirmDate": "2026-08-13",
+    "leavingDate": "2026-04-30",
+    "status": "Exited",
+    "gender": "M",
+    "dob": "1999-06-09",
+    "maritalStatus": "Married",
+    "bloodGroup": "",
+    "personalEmail": "",
+    "workEmail": "singh.pranjal@seasoulcosmetics.com",
+    "mobile": "9711794078",
+    "altMobile": "",
+    "currentAddress": "",
+    "permanentAddress": "",
+    "location": "Bengaluru",
+    "grade": "",
+    "employmentType": "Permanent",
+    "ctc": 816000,
+    "ctcCurrency": "INR",
+    "reportingTo": "",
+    "pan": "LOEPS7811G",
+    "aadhaar": "",
+    "bankName": "",
+    "bankAcc": "",
+    "ifsc": "",
+    "bankBranch": "",
+    "pfNo": "",
+    "uan": "",
+    "esicNo": "",
+    "pfEligible": false,
+    "esiEligible": false,
+    "isPhysicallyChallenged": false,
+    "docs": [
+      {
+        "name": "PAN Card",
+        "status": "verified",
+        "uploaded": "2026-04-15"
+      },
+      {
+        "name": "Aadhaar",
+        "status": "pending",
+        "uploaded": ""
+      },
+      {
+        "name": "Offer Letter",
+        "status": "verified",
+        "uploaded": "2026-04-15"
+      },
+      {
+        "name": "Appointment Letter",
+        "status": "verified",
+        "uploaded": "2026-04-15"
+      },
+      {
+        "name": "Aadhaar Card",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Cancelled Cheque / Bank Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Resume / CV",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Education Certificates",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Previous Experience / Form 16",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Address Proof",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "Photo ID (Passport / DL)",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "PF Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      },
+      {
+        "name": "ESI Enrolment Form",
+        "status": "pending",
+        "uploaded": "",
+        "url": "",
+        "path": "",
+        "filename": ""
+      }
+    ],
+    "kras": [],
+    "family": [
+      {
+        "name": "Asim Kumar",
+        "relation": "Father",
+        "contact": "",
+        "emergency": true
+      },
+      {
+        "name": "Shagun Walia",
+        "relation": "Spouse",
+        "contact": "",
+        "emergency": true
+      }
+    ],
+    "createdAt": "2026-04-15",
+    "updatedAt": "2026-05-13",
+    "compensation": {
+      "type": "OnRoll",
+      "onRoll": {},
+      "contract": {}
+    },
+    "photoUrl": "",
+    "photoPath": "",
+    "offerSentDate": "",
+    "offerAcceptedDate": "",
+    "resignationDate": "",
+    "terminationDate": "",
+    "lastWorkingDay": "2026-04-30",
+    "clearanceCompleteDate": "2026-04-30",
+    "candidateId": "",
+    "payslips": []
+  }
+];

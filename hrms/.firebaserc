@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "aeliusparallel-bms"
+  },
+  "targets": {
+    "aeliusparallel-bms": {
+      "hosting": {
+        "group-hrms": [
+          "group-hrms"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

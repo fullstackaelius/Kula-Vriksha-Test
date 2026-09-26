@@ -1,0 +1,507 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ─── HRMS role helpers ───────────────────────────────────────
+    function hrmsUserDoc() {
+      return /databases/$(database)/documents/hrms_users/$(request.auth.uid);
+    }
+    function hasHrmsUser() {
+      return exists(hrmsUserDoc());
+    }
+    function hrmsRole() {
+      return get(hrmsUserDoc()).data.role;
+    }
+    function isHRMSAdmin() {
+      return request.auth != null && hasHrmsUser() && hrmsRole() == "Admin";
+    }
+    function isHRMSStaff() {
+      return request.auth != null && hasHrmsUser() && (hrmsRole() == "Admin" || hrmsRole() == "HR");
+    }
+    function isHRMSEmployee() {
+      return request.auth != null && hasHrmsUser() && hrmsRole() == "Employee";
+    }
+    function myEid() {
+      return get(hrmsUserDoc()).data.eid;
+    }
+    function myDocId() {
+      return 'docId' in get(hrmsUserDoc()).data ? get(hrmsUserDoc()).data.docId : '';
+    }
+    function isMyOwnRecord(eid) {
+      return isHRMSEmployee() && (myEid() == eid || myDocId() == eid);
+    }
+    function isSignupPending() {
+      return request.auth != null && !hasHrmsUser();
+    }
+    function isLeadership() {
+      return request.auth != null && (
+        request.auth.token.email == "sankalp.chopra@aeliusparallel.com" ||
+        request.auth.token.email == "manisha@aeliusparallel.com" ||
+        request.auth.token.email == "manisha@veridian.in"
+      );
+    }
+
+    // ─── Mitavyaya role helpers ──────────────────────────────────
+    function mitUserDoc() {
+      return /databases/$(database)/documents/mitavyaya_users/$(request.auth.uid);
+    }
+    function hasMitUser() {
+      return request.auth != null && exists(mitUserDoc());
+    }
+    function mitRole() {
+      return 'dhananjayaRole' in get(mitUserDoc()).data
+        ? get(mitUserDoc()).data.dhananjayaRole : 'employee';
+    }
+    function isMitAdmin() {
+      return hasMitUser() && mitRole() in ['admin','founder'];
+    }
+    function mitCanApprove() {
+      return hasMitUser() && mitRole() in ['manager','sopso','rohit','accounts','founder','admin'];
+    }
+    function mitCanCash() {
+      return hasMitUser() && mitRole() in ['accounts','founder','admin'];
+    }
+    function isMitSuper() {
+      return request.auth != null
+        && request.auth.token.email == "sankalp.chopra@aeliusparallel.com";
+    }
+    function isToolUser() {
+      return hasHrmsUser() || hasMitUser();
+    }
+
+    // ─── Shared workspace collections ────────────────────────────
+    match /budgets/{doc} {
+      allow read, write: if isToolUser();
+    }
+    match /manpower/{doc} {
+      allow read, write: if isToolUser();
+    }
+    match /log/{doc} {
+      allow read, write: if isToolUser();
+    }
+    match /linkedin_posts/{postId} {
+      allow read, write: if isToolUser();
+    }
+
+    // ─── HRMS user roles ─────────────────────────────────────────
+    match /hrms_users/{uid} {
+      allow read: if request.auth != null && (request.auth.uid == uid || isHRMSAdmin());
+      allow create: if request.auth != null
+                    && request.auth.uid == uid
+                    && request.resource.data.role == "Employee";
+      allow update: if isHRMSAdmin()
+        || (request.auth != null && request.auth.uid == uid
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['signatureDataUrl']));
+      allow delete: if isHRMSAdmin();
+    }
+
+    // ─── Employees ───────────────────────────────────────────────
+    match /employees/{eid} {
+      allow read: if request.auth != null;
+      allow create: if isHRMSStaff();
+      allow update: if isHRMSStaff()
+        || (
+          isMyOwnRecord(eid)
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+            'dob','gender','maritalStatus','bloodGroup',
+            'currentAddress','permanentAddress',
+            'personalEmail','mobile','altMobile',
+            'family','docs','photoUrl','photoPath',
+            'updatedAt','selfUpdatedAt'
+          ])
+        )
+        || (
+          request.auth != null && hasHrmsUser()
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+            'dailyReporting','updatedAt'
+          ])
+        );
+      allow delete: if isHRMSStaff();
+    }
+
+    // ─── Company performance ─────────────────────────────────────
+    match /companyPerformance/{fy} {
+      allow read: if request.auth != null && hasHrmsUser();
+      allow create, update: if isHRMSStaff();
+      allow delete: if isHRMSAdmin();
+    }
+
+    // ─── Audit log ───────────────────────────────────────────────
+    match /hrms_audit_log/{logId} {
+      allow read: if isHRMSAdmin();
+      allow create: if isHRMSStaff() || isHRMSEmployee();
+      allow update, delete: if false;
+    }
+
+    // ─── HR queries ──────────────────────────────────────────────
+    match /hrms_queries/{qid} {
+      allow read: if isHRMSAdmin()
+        || (request.auth != null && hasHrmsUser() && resource.data.visibleEids.hasAny([myEid(), myDocId()]));
+      allow create: if request.auth != null && hasHrmsUser()
+        && request.resource.data.raisedByEid is string
+        && request.resource.data.visibleEids is list
+        && request.resource.data.visibleEids.hasAny([myEid(), myDocId()]);
+      allow update: if isHRMSAdmin()
+        || (request.auth != null && hasHrmsUser()
+            && resource.data.visibleEids.hasAny([myEid(), myDocId()])
+            && request.resource.data.raisedByEid == resource.data.raisedByEid);
+      allow delete: if isHRMSAdmin();
+    }
+
+    // ─── Leadership notes ────────────────────────────────────────
+    match /leadership_notes/{noteId} {
+      allow read: if isLeadership()
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid());
+      allow create: if isLeadership()
+        && request.resource.data.employeeEid is string
+        && request.resource.data.description is string;
+      allow update: if isLeadership();
+      allow delete: if isLeadership();
+    }
+
+    // ─── MoM (Minutes of Meeting) ────────────────────────────────
+    match /mom_directory/{eid} {
+      allow read: if request.auth != null && hasHrmsUser();
+      allow create, update: if isHRMSStaff();
+      allow delete: if isHRMSAdmin();
+    }
+
+    match /mom_meetings/{mid} {
+      allow read: if request.auth != null && hasHrmsUser();
+      allow create: if request.auth != null && hasHrmsUser()
+        && request.resource.data.title is string
+        && request.resource.data.date is string
+        && request.resource.data.chairEid is string
+        && request.resource.data.attendees is list
+        && request.resource.data.attendees.size() >= 2;
+      allow update: if isHRMSStaff()
+        || (request.auth != null && hasHrmsUser() && resource.data.chairEid == myEid());
+      allow delete: if isHRMSAdmin();
+    }
+
+    match /mom_action_items/{aid} {
+      allow read: if request.auth != null && hasHrmsUser();
+      allow create: if request.auth != null && hasHrmsUser()
+        && request.resource.data.meetingId is string
+        && request.resource.data.assigneeEid is string
+        && request.resource.data.chairEid is string
+        && request.resource.data.dueDate is string
+        && request.resource.data.description is string;
+      allow update: if isHRMSStaff()
+        || (request.auth != null && hasHrmsUser() && resource.data.chairEid == myEid())
+        || (request.auth != null && hasHrmsUser() && resource.data.assigneeEid == myEid()
+            && !request.resource.data.diff(resource.data).affectedKeys()
+                 .hasAny(['meetingId','assigneeEid','chairEid','dueDate']))
+        || (
+          isLeadership()
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+            'status','verifiedAt','verifiedBy',
+            'mgmtClosedBy','mgmtClosedAt','mgmtClosureNote',
+            'tatActualDays','wasLate','closureSummary','history'
+          ])
+        );
+      allow delete: if isHRMSAdmin();
+    }
+
+    // ─── Daily Reports ───────────────────────────────────────────
+    match /daily_reports/{reportId} {
+      allow read: if isLeadership()
+        || (isHRMSStaff() && resource.data.visibleToHR == true)
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid())
+        || (isHRMSEmployee() && resource.data.visibleToManager == true && resource.data.managerEid == myEid());
+      allow create: if request.auth != null && hasHrmsUser()
+        && request.resource.data.employeeEid == myEid()
+        && request.resource.data.reportDate is string
+        && request.resource.data.wins is string
+        && request.resource.data.blockers is string
+        && request.resource.data.planTomorrow is string;
+      allow update: if isLeadership()
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid()
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+              'wins','blockers','planTomorrow','submittedAt','updatedAt',
+              'isPipReport','ktaProgress'
+            ]));
+      allow delete: if isLeadership();
+    }
+
+    // ─── PIP Proposals ───────────────────────────────────────────
+    match /pip_proposals/{propId} {
+      allow read: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.managerEid == myEid())
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid());
+      allow create: if request.auth != null && hasHrmsUser()
+        && request.resource.data.employeeEid is string
+        && request.resource.data.managerEid is string
+        && request.resource.data.reason is string
+        && request.resource.data.ktas is list
+        && request.resource.data.status == "pending_hr";
+      allow update: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.managerEid == myEid()
+            && resource.data.status == "changes_requested");
+      allow delete: if isLeadership();
+    }
+
+    // ─── WFH Logs ────────────────────────────────────────────────
+    match /wfh_logs/{logId} {
+      allow read: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid())
+        || (isHRMSEmployee() && resource.data.managerEid == myEid());
+      allow create: if request.auth != null && hasHrmsUser()
+        && request.resource.data.employeeEid is string
+        && request.resource.data.date is string
+        && request.resource.data.markedBy is string
+        && request.resource.data.status == "awaiting_log";
+      allow update: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid()
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+              'status','workedOn','meetingsAttended','blockers',
+              'availableHoursStart','availableHoursEnd','loggedAt','updatedAt'
+            ]));
+      allow delete: if isLeadership();
+    }
+
+    // ─── Attendance ──────────────────────────────────────────────
+    match /attendance/{attId} {
+      allow read: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid())
+        || (isHRMSEmployee() && resource.data.managerEid == myEid());
+      allow create: if isLeadership() || isHRMSStaff();
+      allow update: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.managerEid == myEid()
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+              'compOffStatus','compOffApprovedBy','compOffApprovedByName',
+              'compOffApprovedAt','compOffRejectedReason','compOffTimesheet',
+              'updatedAt'
+            ]));
+      allow delete: if isLeadership();
+    }
+
+    // ─── Attendance uploads (XLSX batch audit trail) ─────────────
+    match /attendance_uploads/{uploadId} {
+      allow read: if request.auth != null && hasHrmsUser();
+      allow create, update: if isLeadership() || isHRMSStaff();
+      allow delete: if isLeadership();
+    }
+
+    // ─── Early Departures ────────────────────────────────────────
+    match /early_departures/{depId} {
+      allow read: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid())
+        || (isHRMSEmployee() && resource.data.approvingManagerEid == myEid());
+      allow create, update: if isLeadership() || isHRMSStaff();
+      allow delete: if isLeadership();
+    }
+
+    // ─── Attendance EID Mappings ─────────────────────────────────
+    match /attendance_eid_mappings/{deviceEid} {
+      allow read: if request.auth != null && hasHrmsUser();
+      allow create, update: if isLeadership() || isHRMSStaff();
+      allow delete: if isLeadership();
+    }
+
+    // ─── Leave Balances ──────────────────────────────────────────
+    // One doc per employee per year (docId = "{eid}_{year}").
+    // Contains SL, EL, Short Leave, Comp Off accrual + usage snapshots.
+    // Read: Leadership | HR/Admin | subject employee | reporting manager
+    // Create/Update: Leadership | HR/Admin only (seed + accrual runner + manual corrections)
+    // Employee cannot self-update balance (integrity of leave counting).
+    // Delete: Leadership only.
+    match /leave_balances/{balId} {
+      allow read: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid())
+        || (isHRMSEmployee() && resource.data.managerEid == myEid());
+      allow create, update: if isLeadership() || isHRMSStaff();
+      allow delete: if isLeadership();
+    }
+
+    // ─── Leave Applications ──────────────────────────────────────
+    // Employee submits; Manager approves/rejects; HR can override anything.
+    // Read: Leadership | HR/Admin | subject employee | assigned manager
+    // Create: any authenticated user submitting for themselves, OR Leadership/HR on behalf
+    // Update: Leadership | HR (full) | manager approving own reports (approval fields only)
+    //         | subject employee cancelling own pending (status→cancelled only)
+    // Delete: Leadership only
+    match /leave_applications/{appId} {
+      allow read: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid())
+        || (isHRMSEmployee() && resource.data.managerEid == myEid());
+      allow create: if isLeadership() || isHRMSStaff()
+        || (request.auth != null && hasHrmsUser()
+            && request.resource.data.employeeEid == myEid()
+            && request.resource.data.leaveType is string
+            && request.resource.data.fromDate is string
+            && request.resource.data.toDate is string
+            && request.resource.data.status == "pending");
+      allow update: if isLeadership()
+        || isHRMSStaff()
+        || (isHRMSEmployee() && resource.data.managerEid == myEid()
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+              'status','approvedBy','approvedByName','approvedAt','approvalNote',
+              'rejectedBy','rejectedByName','rejectedAt','rejectionReason','updatedAt'
+            ]))
+        || (isHRMSEmployee() && resource.data.employeeEid == myEid()
+            && resource.data.status == "pending"
+            && request.resource.data.status == "cancelled"
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+              'status','updatedAt'
+            ]));
+      allow delete: if isLeadership();
+    }
+
+    // ─── Holiday Calendar ────────────────────────────────────────
+    // Org-wide reference data (docId = "{date}_{name-slug}").
+    // Holds a `states` array of applicable regions, e.g. ["DELHI NCR","MH"].
+    // Read: any signed-in tool user (employees see their own region's list).
+    // Create/Update/Delete: Leadership | HR/Admin.
+    // Delete is HR-capable because the importer deletes-then-rewrites an
+    // entire year when a calendar is re-uploaded.
+    match /holidays/{holidayId} {
+      allow read: if request.auth != null && hasHrmsUser();
+      allow create, update: if isLeadership() || isHRMSStaff();
+      allow delete: if isLeadership() || isHRMSStaff();
+    }
+
+    // ─── Policy Repository ───────────────────────────────────────
+    // Published policy documents; PDF itself lives in Storage /policies/.
+    // Read: any signed-in tool user (employees must be able to read them).
+    // Create/Update: Leadership | HR/Admin. "Archive" is an update setting
+    // active:false, not a delete, so the audit trail is preserved.
+    // Delete: Leadership only (should rarely be needed).
+    match /policies/{policyId} {
+      allow read: if request.auth != null && hasHrmsUser();
+
+      // HR may upload, but only as status "pending" — never pre-approved.
+      // Leadership may create in any state.
+      allow create: if isLeadership()
+        || (isHRMSStaff() && request.resource.data.status == "pending");
+
+      // Only Leadership may change status or the approval fields. HR can edit
+      // metadata on a policy that is still pending, but cannot approve its own
+      // upload, and cannot alter one that is already live.
+      allow update: if isLeadership()
+        || (isHRMSStaff()
+            && resource.data.status == "pending"
+            && request.resource.data.status == "pending"
+            && !request.resource.data.diff(resource.data).affectedKeys()
+                 .hasAny(['status','approvedBy','approvedAt','rejectedBy','rejectedAt','rejectionReason']));
+
+      allow delete: if isLeadership();
+    }
+
+    // ─── Policy Acknowledgements ─────────────────────────────────
+    // Permanent audit record (docId = "{policyId}_{eid}_v{version}").
+    // An employee may only write an acknowledgement for THEIR OWN eid, and
+    // the document ID is pinned to that same eid — otherwise a record could
+    // be filed under a colleague's employee ID and the compliance report
+    // would count it as theirs.
+    // Read: Leadership | HR/Admin | the subject employee.
+    // Delete: nobody. Acknowledgements are evidence.
+    match /policy_acknowledgements/{ackId} {
+      allow read: if isLeadership()
+        || isHRMSStaff()
+        || (request.auth != null && hasHrmsUser()
+            && resource.data.eid in [myEid(), myDocId()]);
+
+      allow create: if isLeadership() || isHRMSStaff()
+        || (request.auth != null && hasHrmsUser()
+            && request.resource.data.eid in [myEid(), myDocId()]
+            && request.resource.data.policyId is string
+            && request.resource.data.version is string
+            && ackId == request.resource.data.policyId + '_'
+                        + request.resource.data.eid + '_v'
+                        + request.resource.data.version);
+
+      allow update: if isLeadership() || isHRMSStaff()
+        || (request.auth != null && hasHrmsUser()
+            && resource.data.eid in [myEid(), myDocId()]
+            && request.resource.data.eid == resource.data.eid);
+
+      allow delete: if false;
+    }
+
+    // ─── Letter Templates ────────────────────────────────────────
+    // HR-editable wording for offer letters, LOI, appointment letters etc.
+    // docId = "{typeId}_{entity}". The body is a restricted HTML subset that
+    // drives BOTH the on-screen preview and the pdfmake PDF.
+    // Read: any signed-in tool user — the letter generator resolves the
+    // active template at generation time, and Managers can generate letters.
+    // Write: Leadership | HR/Admin only. These are legal document templates.
+    match /letter_templates/{tplId} {
+      allow read: if request.auth != null && hasHrmsUser();
+
+      // A new template proposed by HR must start inactive with its content in
+      // pendingBody, so it cannot be used to generate a letter before approval.
+      allow create: if isLeadership()
+        || (isHRMSStaff()
+            && request.resource.data.active == false
+            && request.resource.data.body == ""
+            && request.resource.data.pendingBody is string);
+
+      // HR may only write the pending proposal fields. The live `body`, the
+      // active flag and the approval fields are Leadership-only — otherwise HR
+      // could publish letter wording straight to candidates.
+      allow update: if isLeadership()
+        || (isHRMSStaff()
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+                 'label','entity','version',
+                 'pendingBody','pendingBy','pendingAt','pendingNote',
+                 'updatedAt','updatedBy'
+               ]));
+
+      allow delete: if isLeadership();
+    }
+
+    // ─── Dhananjaya (LEGACY — frozen) ────────────────────────────
+    match /dhananjaya_users/{uid} {
+      allow read: if request.auth != null;
+      allow create: if false;
+      allow update, delete: if isMitSuper();
+    }
+
+    // ─── Mitavyaya ───────────────────────────────────────────────
+    match /mitavyaya_users/{uid} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null && request.auth.uid == uid;
+      allow update: if isMitSuper() || isMitAdmin()
+        || (request.auth != null && request.auth.uid == uid
+            && !request.resource.data.diff(resource.data).affectedKeys()
+                .hasAny(['dhananjayaRole','advanceEligible']));
+      allow delete: if isMitSuper() || isMitAdmin();
+    }
+
+    match /expenses/{expId} {
+      allow read: if hasMitUser() || isMitSuper();
+      allow create: if hasMitUser() && request.resource.data.uid == request.auth.uid;
+      allow update: if hasMitUser() || isMitSuper();
+      allow delete: if false;
+    }
+
+    match /cash_register/{id} {
+      allow read: if mitCanCash() || isMitSuper();
+      allow create: if mitCanCash() || isMitSuper();
+      allow update, delete: if false;
+    }
+
+    match /cash_float/{id} {
+      allow read: if mitCanCash() || isMitSuper();
+      allow create, update: if mitCanCash() || isMitSuper();
+      allow delete: if false;
+    }
+
+    match /mitavyaya_audit/{id} {
+      allow read: if isMitAdmin() || isMitSuper();
+      allow create: if hasMitUser() || isMitSuper();
+      allow update, delete: if false;
+    }
+
+  }
+}

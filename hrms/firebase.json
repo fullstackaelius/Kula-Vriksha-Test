@@ -1,0 +1,43 @@
+{
+  "hosting": {
+    "target": "group-hrms",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "**/serviceAccountKey.json",
+      "**/seed_firestore.js",
+      "**/seed_employees.json",
+      "**/update_compensation.js",
+      "**/update_documents.js",
+      "**/update_letters.js",
+      "**/update_lifecycle.js",
+      "**/update_payslips.js",
+      "**/update_performance.js",
+      "**/update_performance_v2.js",
+      "**/seed_org_structure.js",
+      "**/seed_salaries.js",
+      "**/AeliusParallel_Org_Structure_Template_v1_filled.xlsx",
+      "**/storage.rules",
+      "**/firestore.rules",
+      "**/package.json",
+      "**/package-lock.json",
+      "**/README.md",
+      "**/firestore_rules_hrms_fragment.txt",
+      "**/assets/aphl_logo.png",
+      "**/assets/veridian_logo.jpg"
+    ],
+    "headers": [
+      {
+        "source": "**/*.@(js|css|html)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=300, must-revalidate"
+          }
+        ]
+      }
+    ]
+  }
+}

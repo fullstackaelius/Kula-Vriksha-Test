@@ -1,0 +1,143 @@
+{"users": [
+{
+  "localId": "3W0qKuanQ6MwIcCEfFQ2Xnx8nd22",
+  "email": "creative.design@seasoulcosmetics.com",
+  "emailVerified": false,
+  "passwordHash": "yBFvTp2Szd9Ed3SSPpv6bitGzy2FN5ERhnALO+Ou117tMfgOIJXIHP3uy8FGy23Awpprs0E19YNcc9pE2uwsNQ==",
+  "salt": "ccNnb3IYYxUA+w==",
+  "lastSignedInAt": "1779523398519",
+  "createdAt": "1779521271999",
+  "providerUserInfo": []
+},
+{
+  "localId": "3tzPTJ6MijaNMdBftQ4dXZgd1HI2",
+  "email": "sopso@seasoulcosmetics.com",
+  "emailVerified": false,
+  "passwordHash": "j598vfp+qQfKlsBtER5qbFM9g59Ka5wTZojzfQ6p6FTrZH0gPbTa4/fEeuWoQhcd6WXLbphK3MxlAyi2DU8A4Q==",
+  "salt": "TihNwV9+V/X20Q==",
+  "lastSignedInAt": "1779336999302",
+  "createdAt": "1779298245669",
+  "providerUserInfo": []
+},
+{
+  "localId": "FXU7bDCGvpdJvPzYVmkYHeb2tnK2",
+  "email": "hr@seasoulcosmetics.com",
+  "emailVerified": false,
+  "passwordHash": "gwRfzM6ReiVSdIiL0PeHGulzYUlrdfvcfD6nq0NII0WT/S13Gwcm5cFcdTnMsCqXslsvotnCjbGLvWWcyesK8g==",
+  "salt": "xa3Np+/6Rrmauw==",
+  "lastSignedInAt": "1779435470331",
+  "createdAt": "1778654475618",
+  "disabled": false,
+  "providerUserInfo": []
+},
+{
+  "localId": "GCLWPhOQV4TJW8O5IIgRTngNvNq2",
+  "email": "gopal.sharma@aeliusparallel.com",
+  "emailVerified": false,
+  "passwordHash": "Hl4HU3VQWXEgmQrdxQzHKg+29cwf8MKh2wmWb1FGXbUeNEfGS8wFGFf//ntYioZJH3eA0FM0rIBQiEOXgsGzzA==",
+  "salt": "Xd7XmgmpfGUB8g==",
+  "lastSignedInAt": "1779451361518",
+  "createdAt": "1779451361518",
+  "providerUserInfo": []
+},
+{
+  "localId": "JCLaBCIHL4Xe7bco4NwAkuzCKuc2",
+  "email": "kumar.minakshi@seasoulcosmetics.com",
+  "emailVerified": true,
+  "passwordHash": "ACdQxcAEtnwtC0v/HBVgn8fCmG5ubQ0EwHxUl2gJnNEL++8H8uJlhtqBUx0U52EoK/iIGgbip/gufap86h+Xjw==",
+  "salt": "eUKWVtsdOiszSw==",
+  "lastSignedInAt": "1779528553462",
+  "createdAt": "1779524966487",
+  "providerUserInfo": []
+},
+{
+  "localId": "KrY4PADzJCWl6GDOb8RutmG09ul1",
+  "email": "mitanshi.j@aeliusparallel.com",
+  "emailVerified": false,
+  "passwordHash": "aFEgYaLNb+830KOGKOpz2v6kRCYtVfEi/KfpvuTVeBT8CZhIimjFnUoCQQWQp/YsvkNrgtmNMu1t/wl9HUGf4w==",
+  "salt": "i/njVy1EnorcQg==",
+  "lastSignedInAt": "1779420364917",
+  "createdAt": "1779420364917",
+  "providerUserInfo": []
+},
+{
+  "localId": "ZE7qzIQezzNqHFgaKsw1MzuopXD3",
+  "email": "anurag.kumar@aeliusparallel.com",
+  "emailVerified": false,
+  "passwordHash": "JffJXQ3FOIKyFd46R9R+hGa3nzESjM8f7Bpj4d4raQEFDhfK9EUsoVzf1baC3B6ugwFwngMZ2fTAcJylSxX5Hw==",
+  "salt": "yEdB+j5fv+ufAQ==",
+  "lastSignedInAt": "1779528090361",
+  "createdAt": "1779454040162",
+  "providerUserInfo": []
+},
+{
+  "localId": "dopQTNK60yYFscncUiuA5bjjVme2",
+  "email": "rinki.b@aeliusparallel.com",
+  "emailVerified": false,
+  "passwordHash": "xMYqhOmfL3hTq7ec+RAscJIIwYBq0vVitCai66zVGDKX/AnvzBrxL43AGsGoCiyRQODYaZM2GBlIWtJlMgBj5w==",
+  "salt": "z/smsqFvkUVvPA==",
+  "lastSignedInAt": "1779431946293",
+  "createdAt": "1779262187548",
+  "providerUserInfo": []
+},
+{
+  "localId": "knON7cwjPwhE6tyqHSylXXtqLXP2",
+  "email": "accounts@aeliusparallel.com",
+  "emailVerified": false,
+  "passwordHash": "v863ZkhomEes2rXd/yYFEFjaHo2FJK8Idnhz/uhepskLa7fRPqc7+VxSJWsuvDXvtJk0F37EVVL46hchVRoz9A==",
+  "salt": "miIGolFcXihJRw==",
+  "createdAt": "1776259994692",
+  "disabled": false,
+  "providerUserInfo": []
+},
+{
+  "localId": "lWmAFK64MDZCFTeV6uQbjRRKWiG3",
+  "email": "sankalp.chopra@aeliusparallel.com",
+  "emailVerified": false,
+  "passwordHash": "lugccA4fcG+Fhe+GE9x1Dmcf5EhwwvO+21dJ22PF20IsH6tBSjYPIRT5NUaUnBOqGjism8DJjcSqZLviSA8uUw==",
+  "salt": "mzYaLbv8d7qeDA==",
+  "lastSignedInAt": "1779522178431",
+  "createdAt": "1778654501953",
+  "disabled": false,
+  "providerUserInfo": []
+},
+{
+  "localId": "lsZmrJdFamXBCLk6iCqZnkUlfIf1",
+  "email": "mis@seasoulcosmetics.com",
+  "emailVerified": false,
+  "passwordHash": "3rkVAsNeOTKEriixCZEXSy6X1Dvd7+4cFhgjl38VREHKoCk1UzscBhn1/Q3tTLmbyttP76O5rM7o9azUO6cHoQ==",
+  "salt": "yYak++XQQTbQFQ==",
+  "lastSignedInAt": "1779259449659",
+  "createdAt": "1779259449659",
+  "providerUserInfo": []
+},
+{
+  "localId": "moSep0sOpcSKniucOKhXntrPOT42",
+  "email": "rohit.chaudhary@seasoulcosmetics.com",
+  "emailVerified": true,
+  "passwordHash": "I1x5b6/FEzeaRFPzYSCTIsQRAAKdM42wQvPDv0fu1cOYb8/h6Zpxtu5biDtSg+4BNpYz8k2m8FO5JfF9IB4HYA==",
+  "salt": "RwbWyaa/dxmuEQ==",
+  "lastSignedInAt": "1779260583970",
+  "createdAt": "1779259846690",
+  "providerUserInfo": []
+},
+{
+  "localId": "srlDmUxyjHQlQuB7ejdeUnf1hcp1",
+  "email": "singh.diksha@aeliusparallel.com",
+  "emailVerified": false,
+  "passwordHash": "NHbDC92x40kSFpSu17WRWoPGoqGnTwQMl7D6H+X0XDfE+vI/nANNwC9M+pSHXENcosakG8E8L0mgQdcnoDIwpA==",
+  "salt": "fZM5+Q23gsV1RQ==",
+  "lastSignedInAt": "1779520650006",
+  "createdAt": "1779262197689",
+  "providerUserInfo": []
+},
+{
+  "localId": "t5VpEV41IgaoAkqIiFWCHnntRws2",
+  "email": "arvind.singh@aeliusparallel.com",
+  "emailVerified": true,
+  "passwordHash": "+s74TDIoJOAZZu7BVRxylMSa4AeFdEXCq3J+shFcvdiAwFWgM2Ud8OYTsDmzxQSWtH+3nH46aMtN3tku27NwlA==",
+  "salt": "q3nJYzk9UWq/pw==",
+  "lastSignedInAt": "1779432120843",
+  "createdAt": "1779262175605",
+  "providerUserInfo": []
+}]}

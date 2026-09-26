@@ -1,0 +1,15 @@
+{
+  "name": "aelius-hrms-seeder",
+  "version": "1.0.0",
+  "description": "One-time Firestore seeder for AeliusParallel HRMS",
+  "main": "seed_firestore.js",
+  "scripts": {
+    "seed": "node seed_firestore.js",
+    "seed:force": "node seed_firestore.js --force",
+    "seed:dry": "node seed_firestore.js --dry-run"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
